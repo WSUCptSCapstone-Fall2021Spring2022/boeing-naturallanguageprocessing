@@ -2,6 +2,7 @@
 
 ## What's New (User Facing)
  * Feature 1: User Manual
+ * Feature 2: Testing suite
 
 ## Work Summary (Developer Facing)
 Our team finished up testing and documentation. This includes MVP report, User Manual, Unit/Integration testing and CI/CD pipeline.
