@@ -123,7 +123,7 @@ class Documents extends React.Component {
                                     <></>
                                     : // creating a new taxonomy
                                     <> &nbsp;
-                                        <div className="document-input-box"> &nbsp;&nbsp;
+                                        <div className="document-input-box" id="input"> &nbsp;&nbsp;
                                             <input onChange={this.handleChange} name="input" 
                                                 placeholder="C:\Users\user\OneDrive\Desktop\boeing-naturallanguageprocessing\Data\Input" size="75"/> &nbsp;&nbsp;&nbsp;
                                             <button className="button" onClick={() => this.submitInput()}>
@@ -139,7 +139,7 @@ class Documents extends React.Component {
                                 }
                                 {this.props.load ? // loading from a .csv
                                     <> &nbsp;
-                                        <div className="document-input-box">
+                                        <div className="document-input-box" id="output">
                                             &nbsp;&nbsp;
                                             <input onChange={this.handleChange} name="output" 
                                                 placeholder="C:\Users\user\OneDrive\Desktop\boeing-naturallanguageprocessing\Data\Output" size="75"/> &nbsp;&nbsp;&nbsp;
@@ -152,7 +152,7 @@ class Documents extends React.Component {
                                             </div>
                                         </div>
                                         <hr className="hr"/>
-                                        <div className="document-input-box"> &nbsp;&nbsp;
+                                        <div className="document-input-box" id="corpus"> &nbsp;&nbsp;
                                             <input onChange={this.handleChange} size="75" name="taxonomy" 
                                                 placeholder="Will write over files with the same name"/> &nbsp;&nbsp;&nbsp;
                                             <button className="button" onClick={() => this.submitTaxonomy()}>
@@ -166,7 +166,7 @@ class Documents extends React.Component {
                                     </>
                                     : // creating a new taxonomy
                                     <>
-                                        <div className="document-input-box"> &nbsp;&nbsp;
+                                        <div className="document-input-box" id="output"> &nbsp;&nbsp;
                                             <input onChange={this.handleChange} name="output" 
                                                 placeholder="C:\Users\user\OneDrive\Desktop\boeing-naturallanguageprocessing\Data\Output" size="75"/> &nbsp;&nbsp;&nbsp;
                                             <button className="button" onClick={() => this.submitOutput()}>
@@ -178,7 +178,7 @@ class Documents extends React.Component {
                                             </div>
                                         </div>
                                         <hr className="hr"/>
-                                        <div className="document-input-box"> &nbsp;&nbsp;
+                                        <div className="document-input-box" id="corpus"> &nbsp;&nbsp;
                                             <input onChange={this.handleChange} size="75" name="taxonomy" 
                                                 placeholder="Files with the same name will be overwritten in output location"/> &nbsp;&nbsp;&nbsp;
                                             <button className="button" onClick={() => this.submitTaxonomy()}> 
@@ -196,7 +196,7 @@ class Documents extends React.Component {
                                     : // creating a new taxonomy
                                     <>
                                         <hr className="hr"/>
-                                        <div> &nbsp;&nbsp;
+                                        <div id="getFiles"> &nbsp;&nbsp;
                                             <button className="button" onClick={() => this.props.getFiles()}> 
                                                 <FontAwesomeIcon icon={faArrowsRotate}/> &nbsp; 
                                                 Get Files From Input Folder: 

@@ -20,10 +20,10 @@ Returns: .pdf object
 def open_file(filePath):
     if not filePath.exists():
         print("File " + filePath.name + " does not exist. Exiting...")
-        exit()
+        return 0
     elif not filePath.suffix == ".pdf":
         print("File " + filePath.name + " is not a pdf. Exiting...")
-        exit()
+        return 0
 
     file = pdfplumber.open(filePath)
     return file

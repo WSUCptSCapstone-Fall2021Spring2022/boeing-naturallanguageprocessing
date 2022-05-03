@@ -1,0 +1,1017 @@
+document_nouns.csv
+Unique nouns: 1014,Total nouns: 1427
+Total time: 5.669 sec,Cost per noun: 3.973 ms
+delta virtual airline,"['DELTA VIRTUAL AIRLINES BOEING 777-200ER AIRCRAFT OPERATING MANUAL THIRD EDITION NOVEMBER 2005 TABLE OF CONTENTS Table of Contents......................................................................................................2', 'For Delta Virtual Airlines, these procedures are for the benefit of the pilots using this manual.', 'Delta Virtual Airlines is not in anyway affiliated with Delta Air Lines or any of its subsidiaries.', 'The authors grant unlimited rights to Delta Virtual Airlines for modifications and electronic distribution.', 'This manual is designed for use by Delta Virtual Airlines as reference material for flight simulator pilots operating the Boeing 777-200ER aircraft.']",5
+777-200er aircraft operating manual third edition november 2005 table,['DELTA VIRTUAL AIRLINES BOEING 777-200ER AIRCRAFT OPERATING MANUAL THIRD EDITION NOVEMBER 2005 TABLE OF CONTENTS Table of Contents......................................................................................................2'],1
+content table,['DELTA VIRTUAL AIRLINES BOEING 777-200ER AIRCRAFT OPERATING MANUAL THIRD EDITION NOVEMBER 2005 TABLE OF CONTENTS Table of Contents......................................................................................................2'],1
+content,['DELTA VIRTUAL AIRLINES BOEING 777-200ER AIRCRAFT OPERATING MANUAL THIRD EDITION NOVEMBER 2005 TABLE OF CONTENTS Table of Contents......................................................................................................2'],1
+aircraft history,['Aircraft History and Background .................................................................................1 Engine Types.............................................................................................................'],1
+background,"['Aircraft History and Background .................................................................................1 Engine Types.............................................................................................................', 'Boeing 777-200ER Aircraft Operating Manual AIRCRAFT HISTORY AND BACKGROUND']",2
+................................................................................. 1 engine type,['Aircraft History and Background .................................................................................1 Engine Types.............................................................................................................'],1
+3 roll-royce trent,['3 Rolls-Royce Trent 800............................................................................................3 General Electric GE90.............................................................................................3 Pratt & Whitney PW4090'],1
+............................................................................................ 3 general electric ge90,['3 Rolls-Royce Trent 800............................................................................................3 General Electric GE90.............................................................................................3 Pratt & Whitney PW4090'],1
+3 pratt,['3 Rolls-Royce Trent 800............................................................................................3 General Electric GE90.............................................................................................3 Pratt & Whitney PW4090'],1
+whitney,"['3 Rolls-Royce Trent 800............................................................................................3 General Electric GE90.............................................................................................3 Pratt & Whitney PW4090', ""Delta uses the Rolls-Royce Trents, Air France uses the GE's, and Korean uses the Pratt and Whitney's."", 'PRATT & WHITNEY PW4090', 'This manual makes no claim to represent Boeing, Rolls Royce, General Electric, Pratt & Whitney, Microsoft, Delta Air Lines, Melvin Rafi or any other party involved.']",4
+pw4090,"['3 Rolls-Royce Trent 800............................................................................................3 General Electric GE90.............................................................................................3 Pratt & Whitney PW4090', 'PRATT & WHITNEY PW4090']",2
+........................................................................................ 4 flight deck,['........................................................................................4 Flight Deck................................................................................................................5'],1
+aircraft specification,['Aircraft Specifications.................................................................................................7 Aircraft Dimensions................................................................................................7'],1
+7 aircraft dimension,['Aircraft Specifications.................................................................................................7 Aircraft Dimensions................................................................................................7'],1
+design weight,['Design Weights......................................................................................................7 Capacity................................................................................................................7'],1
+...................................................................................................... 7 capacity,['Design Weights......................................................................................................7 Capacity................................................................................................................7'],1
+power plant,['Power Plants..........................................................................................................'],1
+8 range,['7 Field Lengths.........................................................................................................8 Range...................................................................................................................9 Speeds..................................................................................................................9 Altitudes..............................................................................................................10 Fuel Consumption....................................................................................................'],1
+9 altitude,['7 Field Lengths.........................................................................................................8 Range...................................................................................................................9 Speeds..................................................................................................................9 Altitudes..............................................................................................................10 Fuel Consumption....................................................................................................'],1
+10 fuel consumption,['7 Field Lengths.........................................................................................................8 Range...................................................................................................................9 Speeds..................................................................................................................9 Altitudes..............................................................................................................10 Fuel Consumption....................................................................................................'],1
+11 recommend equipment,['11 Recommended Equipment........................................................................................13'],1
+delta virtual airline standard operating procedure,"['Delta Virtual Airlines Standard Operating Procedures.................................................13', 'DELTA VIRTUAL AIRLINES STANDARD OPERATING PROCEDURES']",2
+flight,"['Pre-Flight ............................................................................................................', 'This is equivalent to about $3.4 million per year per airline as a result of having an additional 15 passengers per flight.', 'Integrated Airplane Information Management System (AIMS) provides flight and maintenance crews all pertinent information concerning the overall condition of the airplane, its maintenance requirements and its key operating functions, including flight, thrust and communications management.', 'By standardizing procedures the company can budget flights better financially as flights will always be the same or at least somewhat similar.', '(cid:131) Load fuel planned for flight.']",6
+14 gate departure,['14 Gate Departure....................................................................................................'],1
+14 takeoff,['14 Takeoff ...............................................................................................................'],1
+14 climb,['14 Climb..................................................................................................................15'],1
+cruise,"['Cruise .................................................................................................................15', 'Delta Virtual Airlines aircraft should always carry a minimum fuel load for the trip to destination, alternate and a 60 min reserve in cruise at low altitude.', 'CRUISE (cid:131)']",3
+descent,"['Descent...............................................................................................................', 'When flying over long bodies of water, remember that in the event of pressurization problem or an engine failure that requires descent to 14,000 feet MSL for passenger comfort, the fuel burn for your aircraft will increase significantly and may leave you short of your initial destination.', 'DESCENT (cid:131)']",3
+approach,"['Approach.............................................................................................................', 'Logbook / FOB / ACARS COMPLETED PAGE 19 Boeing 777-200ER Aircraft Operating Manual EMERGENCY PROCEDURES MISSED APPROACH (cid:131)', 'SINGLE ENGINE OUT LANDING (cid:131) Use flaps 20o and Vref for approach and landing.', ""Stay on or above the glide slope at all times during approach, once you get below it, you can't get back up it.""]",4
+16 taxi,['16 Taxi to Terminal...................................................................................................'],1
+the aircraft,"['Securing the Aircraft ............................................................................................17 Normal Checklists....................................................................................................18', 'Pilots are to make sure that the aircraft is always operated within all design limitations.', 'By flying using PAGE 13 Boeing 777-200ER Aircraft Operating Manual these procedures pilots will be able to make better use of the manual and also operate the aircraft in a similar fashion company wide.', 'Idle thrust is sufficient to keep the aircraft rolling.', 'At V , rotate the aircraft smoothly (2.5 deg/sec) to 15 degrees pitch up.', 'At acceleration height, lower the nose to 10 degrees to accelerate the aircraft and set flaps 1\\xc2\\xb0.', 'Slow the aircraft on the glide slope to 160 KIAS and flaps 20\\xc2\\xb0.', 'PAGE 16 Boeing 777-200ER Aircraft Operating Manual SECURING THE AIRCRAFT (cid:131)', 'At 1,500 feet AGL lower nose to 10 degrees and continue with the take off procedure for cleaning the aircraft up.', 'Not only is the aircraft stable, but strong crosswinds can be handled on demand.', 'The information in this manual has been gathered from Internet resources and from test flying the aircraft.']",11
+17 normal checklist,['Securing the Aircraft ............................................................................................17 Normal Checklists....................................................................................................18'],1
+aircraft,"['Receiving Aircraft.................................................................................................18', 'PAGE 17 Boeing 777-200ER Aircraft Operating Manual NORMAL CHECKLISTS RECEIVING AIRCRAFT (cid:131) Altimeters & Flt.']",2
+start,"['Before Start.........................................................................................................', 'After Start...........................................................................................................', 'Preflight Briefing COMPLETE BEFORE START (cid:131)', 'Flight Controls CHECKED AFTER START (cid:131)']",4
+takeoff,"['Before Takeoff.....................................................................................................', 'After Takeoff.......................................................................................................', 'TAKEOFF (cid:131)', 'Flaps SET___ BEFORE TAKEOFF (cid:131)', 'Transponder TA / RA AFTER TAKEOFF (cid:131)']",5
+range,"['In Range.............................................................................................................', 'In Range"" Checklist.', 'Gear UP (cid:131) Flaps UP PAGE 18 Boeing 777-200ER Aircraft Operating Manual IN RANGE (cid:131)']",3
+19 approach,['19 Approach.............................................................................................................'],1
+19 emergency procedure ............................................................................................. 20 miss approach,['19 Emergency Procedures.............................................................................................20 Missed Approach..................................................................................................20'],1
+take-off ................................................................................................ 20 single engine departure,['Rejected Take-off ................................................................................................20 Single Engine Departure.......................................................................................'],1
+20 engine fire,['20 Engine Fire..........................................................................................................'],1
+mid flight,"['20 Engine Failure Shutdown Mid Flight.......................................................................21 Single Engine Out Landing....................................................................................', 'PAGE 20 Boeing 777-200ER Aircraft Operating Manual ENGINE FAILURE SHUTDOWN MID FLIGHT (cid:131)']",2
+21 total power loss,['21 Total Power Loss..................................................................................................21'],1
+gear,['Gear Stuck Up .....................................................................................................'],1
+22 pilot note,['22 Pilot Notes and Observations....................................................................................23'],1
+observation,"['22 Pilot Notes and Observations....................................................................................23', 'PAGE 22 Boeing 777-200ER Aircraft Operating Manual PILOT NOTES AND OBSERVATIONS While the 777 is one of the most technologically advanced commercial aircraft in the world, pilots should always remember that the 777 is still a very large aircraft.']",2
+legal stuff,['Legal Stuff ..............................................................................................................'],1
+777-200er,"['Boeing 777-200ER Aircraft Operating Manual AIRCRAFT HISTORY AND BACKGROUND', 'The PW4098, at 99,040 pounds of thrust, is available for 777-200ER and 777-300 models.', 'PAGE 4 Boeing 777-200ER Aircraft Operating Manual FLIGHT DECK', '777-200ER Range 7,730 nm Fuel Burn Rate Factor 22.0 lbs/nm Fuel Base', 'PAGE 12 Boeing 777-200ER Aircraft Operating Manual RECOMMENDED EQUIPMENT Delta Virtual Airlines provides 32-bit Windows aircraft fleet installer utilities for its aircraft, as part of its Fleet Library.']",5
+manual aircraft history,['Boeing 777-200ER Aircraft Operating Manual AIRCRAFT HISTORY AND BACKGROUND'],1
+the beginning,"['At the beginning of the ""Jet Age"" in the late 1950s and early 1960s, speed was the paramount consideration between jetliners.']",1
+"the "" jet age","['At the beginning of the ""Jet Age"" in the late 1950s and early 1960s, speed was the paramount consideration between jetliners.']",1
+the late 1950,"['At the beginning of the ""Jet Age"" in the late 1950s and early 1960s, speed was the paramount consideration between jetliners.']",1
+early 1960,"['At the beginning of the ""Jet Age"" in the late 1950s and early 1960s, speed was the paramount consideration between jetliners.']",1
+speed,"['At the beginning of the ""Jet Age"" in the late 1950s and early 1960s, speed was the paramount consideration between jetliners.', 'Early airliners such as the Boeing 720 could cruise up to Mach 0.90, and the Convair 990 reached speeds up to Mach 0.97.', 'Reduce speed down to 270 KIAS passing through FL180.']",3
+the paramount consideration,"['At the beginning of the ""Jet Age"" in the late 1950s and early 1960s, speed was the paramount consideration between jetliners.']",1
+jetliner,"['At the beginning of the ""Jet Age"" in the late 1950s and early 1960s, speed was the paramount consideration between jetliners.']",1
+early airliner,"['Early airliners such as the Boeing 720 could cruise up to Mach 0.90, and the Convair 990 reached speeds up to Mach 0.97.']",1
+the convair,"['Early airliners such as the Boeing 720 could cruise up to Mach 0.90, and the Convair 990 reached speeds up to Mach 0.97.']",1
+the oil crisis,"['The oil crisis of 1973 accelerated a trend that began with the Boeing 747 - a trend towards larger, more economical airliners.']",1
+a trend,"['The oil crisis of 1973 accelerated a trend that began with the Boeing 747 - a trend towards larger, more economical airliners.']",2
+"large, more economical airliner","['The oil crisis of 1973 accelerated a trend that began with the Boeing 747 - a trend towards larger, more economical airliners.']",1
+the 1980,"['In the 1980s, airlines started to make extensive use of ""big twin"" aircraft such as the Boeing 757, 767 and Airbus 300 to deliver large passenger loads without the high operating costs of the multi-engine aircraft they replaced, such as the 727, DC-10 and DC-8.']",1
+airline,"['In the 1980s, airlines started to make extensive use of ""big twin"" aircraft such as the Boeing 757, 767 and Airbus 300 to deliver large passenger loads without the high operating costs of the multi-engine aircraft they replaced, such as the 727, DC-10 and DC-8.', 'Airlines will have additional flexibility in serving the non-stop routes that passengers demand.', 'This is equivalent to about $3.4 million per year per airline as a result of having an additional 15 passengers per flight.']",3
+extensive use,"['In the 1980s, airlines started to make extensive use of ""big twin"" aircraft such as the Boeing 757, 767 and Airbus 300 to deliver large passenger loads without the high operating costs of the multi-engine aircraft they replaced, such as the 727, DC-10 and DC-8.']",1
+""" big twin "" aircraft","['In the 1980s, airlines started to make extensive use of ""big twin"" aircraft such as the Boeing 757, 767 and Airbus 300 to deliver large passenger loads without the high operating costs of the multi-engine aircraft they replaced, such as the 727, DC-10 and DC-8.']",1
+the boeing 757,"['In the 1980s, airlines started to make extensive use of ""big twin"" aircraft such as the Boeing 757, 767 and Airbus 300 to deliver large passenger loads without the high operating costs of the multi-engine aircraft they replaced, such as the 727, DC-10 and DC-8.']",1
+large passenger load,"['In the 1980s, airlines started to make extensive use of ""big twin"" aircraft such as the Boeing 757, 767 and Airbus 300 to deliver large passenger loads without the high operating costs of the multi-engine aircraft they replaced, such as the 727, DC-10 and DC-8.']",1
+the high operating cost,"['In the 1980s, airlines started to make extensive use of ""big twin"" aircraft such as the Boeing 757, 767 and Airbus 300 to deliver large passenger loads without the high operating costs of the multi-engine aircraft they replaced, such as the 727, DC-10 and DC-8.']",1
+the multi-engine aircraft,"['In the 1980s, airlines started to make extensive use of ""big twin"" aircraft such as the Boeing 757, 767 and Airbus 300 to deliver large passenger loads without the high operating costs of the multi-engine aircraft they replaced, such as the 727, DC-10 and DC-8.']",1
+they,"['In the 1980s, airlines started to make extensive use of ""big twin"" aircraft such as the Boeing 757, 767 and Airbus 300 to deliver large passenger loads without the high operating costs of the multi-engine aircraft they replaced, such as the 727, DC-10 and DC-8.', 'Originally, they started out with a 767 derivative called the 767-X. After initial customer feedback, this derivative design was scrapped in favor of a completely new aircraft that became the 777.', 'They do not require the heavy, complex air conditioning apparatus needed to cool equipment on current flight decks.', 'For instance, pilots should not try a very short approach with very tight turns as if they were flying a 737 or other smaller aircraft.']",4
+dc-10,"['In the 1980s, airlines started to make extensive use of ""big twin"" aircraft such as the Boeing 757, 767 and Airbus 300 to deliver large passenger loads without the high operating costs of the multi-engine aircraft they replaced, such as the 727, DC-10 and DC-8.']",1
+delta's trans-atlantic flight,"[""Today, Delta's trans-Atlantic flights are dominated by the Boeing 767, with only a secondary role for the MD-11.""]",1
+only a secondary role,"[""Today, Delta's trans-Atlantic flights are dominated by the Boeing 767, with only a secondary role for the MD-11.""]",1
+the md-11,"[""Today, Delta's trans-Atlantic flights are dominated by the Boeing 767, with only a secondary role for the MD-11.""]",1
+the late 1980,"['In the late 1980s, Boeing received requests for a new, larger twin-engine airliner to replace older L-1011s, DC-10s and early model 747s.']",1
+boeing,"['In the late 1980s, Boeing received requests for a new, larger twin-engine airliner to replace older L-1011s, DC-10s and early model 747s.', 'The 777-200LR (longer range) and 777-300ER (extended range) airplanes are two longer-range airplanes that Boeing has recently developed.', 'PAGE 6 Boeing 777-200ER Aircraft Operating Manual AIRCRAFT SPECIFICATIONS AIRCRAFT DIMENSIONS (cid:131)', 'This manual makes no claim to represent Boeing, Rolls Royce, General Electric, Pratt & Whitney, Microsoft, Delta Air Lines, Melvin Rafi or any other party involved.']",4
+request,"['In the late 1980s, Boeing received requests for a new, larger twin-engine airliner to replace older L-1011s, DC-10s and early model 747s.']",1
+"a new, large twin-engine airliner","['In the late 1980s, Boeing received requests for a new, larger twin-engine airliner to replace older L-1011s, DC-10s and early model 747s.']",1
+dc-10s,"['In the late 1980s, Boeing received requests for a new, larger twin-engine airliner to replace older L-1011s, DC-10s and early model 747s.']",1
+early model 747,"['In the late 1980s, Boeing received requests for a new, larger twin-engine airliner to replace older L-1011s, DC-10s and early model 747s.']",1
+a 767 derivative,"['Originally, they started out with a 767 derivative called the 767-X. After initial customer feedback, this derivative design was scrapped in favor of a completely new aircraft that became the 777.']",1
+the 767-x.,"['Originally, they started out with a 767 derivative called the 767-X. After initial customer feedback, this derivative design was scrapped in favor of a completely new aircraft that became the 777.']",1
+initial customer feedback,"['Originally, they started out with a 767 derivative called the 767-X. After initial customer feedback, this derivative design was scrapped in favor of a completely new aircraft that became the 777.']",1
+this derivative design,"['Originally, they started out with a 767 derivative called the 767-X. After initial customer feedback, this derivative design was scrapped in favor of a completely new aircraft that became the 777.']",1
+favor,"['Originally, they started out with a 767 derivative called the 767-X. After initial customer feedback, this derivative design was scrapped in favor of a completely new aircraft that became the 777.']",1
+a completely new aircraft,"['Originally, they started out with a 767 derivative called the 767-X. After initial customer feedback, this derivative design was scrapped in favor of a completely new aircraft that became the 777.']",1
+this aircraft,"['This aircraft would have the economics of a large, twin-engine aircraft combined with the range and seating capacity of large, multi-engine airliners.']",1
+the economic,"['This aircraft would have the economics of a large, twin-engine aircraft combined with the range and seating capacity of large, multi-engine airliners.']",1
+"a large, twin-engine aircraft","['This aircraft would have the economics of a large, twin-engine aircraft combined with the range and seating capacity of large, multi-engine airliners.']",1
+the range,"['This aircraft would have the economics of a large, twin-engine aircraft combined with the range and seating capacity of large, multi-engine airliners.']",1
+capacity,"['This aircraft would have the economics of a large, twin-engine aircraft combined with the range and seating capacity of large, multi-engine airliners.']",1
+"large, multi-engine airliner","['This aircraft would have the economics of a large, twin-engine aircraft combined with the range and seating capacity of large, multi-engine airliners.']",1
+the airplane,"['The airplane is larger than all other twinjet or tri-jet airplanes, yet smaller than the 747 and it brings the twin-engine economic advantage to medium- and long-range markets.', 'Throughout the design process, the airplane was ""pre-assembled"" on the computer, eliminating the need for a costly, full-scale mock-up.', 'Integrated Airplane Information Management System (AIMS) provides flight and maintenance crews all pertinent information concerning the overall condition of the airplane, its maintenance requirements and its key operating functions, including flight, thrust and communications management.']",3
+all other twinjet,"['The airplane is larger than all other twinjet or tri-jet airplanes, yet smaller than the 747 and it brings the twin-engine economic advantage to medium- and long-range markets.']",1
+tri-jet airplane,"['The airplane is larger than all other twinjet or tri-jet airplanes, yet smaller than the 747 and it brings the twin-engine economic advantage to medium- and long-range markets.']",1
+it,"['The airplane is larger than all other twinjet or tri-jet airplanes, yet smaller than the 747 and it brings the twin-engine economic advantage to medium- and long-range markets.', 'PAGE 1 Boeing 777-200ER Aircraft Operating Manual Applying schedules, time of day demands and competitive strength to a Boeing flight selection model, it is estimated that flying 777s instead of A340s would result in a revenue advantage of $18 million per airplane (10 percent net present value) for a typical airline.', 'It recently completed the longest ever non-stop flight from Hong Kong to London going the long way around clocking in at just under 23 hours non-stop!', 'It has a range similar to a 747-400, but with much better economics per seat mile.', ""It received FAR33 certification (rated at 115,000 lbs of thrust) by the U.S. Federal Aviation Administration and the European Community's Joint Airworthiness Authorities in 2002."", 'It entered service in June 1995 with United Airlines, already qualified for 180-minute ETOPS (Extended-range Twin-engine Operations) - an industry first.', 'It is also the first engine to operate with approval for 207-minute ETOPS.', 'It permits airplane systems and associated computers to communicate with one another through a common wire path (a twisted pair of wires) instead of through separate one-way wire connections.', 'It incorporates a proprietary digital terrain map, which it continuously compares to airplane position data from the navigation system.', ""However, with that said it is always the pilot's responsibility to ensure that there is enough legal fuel for the flight."", ""Stay on or above the glide slope at all times during approach, once you get below it, you can't get back up it."", ""While the 777 can handle severe conditions, it is the pilot's responsibility to plan effectively and safely."", 'It is recommended that all 777 pilots stay up-to-date on all international flight rule changes and NAT track changes.', 'Most 777 routes are international routes and therefore the 777 pilots (along with the MD-11 pilots) should be the most knowledgeable when it comes to trans-oceanic and international flight planning.']",16
+the twin-engine economic advantage,"['The airplane is larger than all other twinjet or tri-jet airplanes, yet smaller than the 747 and it brings the twin-engine economic advantage to medium- and long-range markets.']",1
+medium- and long-range market,"['The airplane is larger than all other twinjet or tri-jet airplanes, yet smaller than the 747 and it brings the twin-engine economic advantage to medium- and long-range markets.']",1
+five model,"['The 777 currently is available in five models: 777-200, 777-200ER (extended range), 777-200LR (longer-range), 777-300 and the 777-300ER.']",1
+extended range,"['The 777 currently is available in five models: 777-200, 777-200ER (extended range), 777-200LR (longer-range), 777-300 and the 777-300ER.', 'The 777-200LR (longer range) and 777-300ER (extended range) airplanes are two longer-range airplanes that Boeing has recently developed.']",2
+long-range,"['The 777 currently is available in five models: 777-200, 777-200ER (extended range), 777-200LR (longer-range), 777-300 and the 777-300ER.']",1
+the 777-300er,"['The 777 currently is available in five models: 777-200, 777-200ER (extended range), 777-200LR (longer-range), 777-300 and the 777-300ER.', 'Both the 777-200LR and the 777-300ER were entered into service within the past year.', 'The 777-300ER is a versatile long-range aircraft with an increased capacity over the -200ER/LR.', 'PAGE 3 Boeing 777-200ER Aircraft Operating Manual Certification, first delivery, and entry into service of the 777-300ER are set for 2003.']",4
+the 777s seat,"['The 777s seat from 301 to 368 passengers in a three-class configuration with a range of 5,210 nautical miles (9,649 km) in the 777-200 to 8,810 nautical miles (16,316 km) for the 777-200LR (longer range) model.']",1
+301 to 368 passenger,"['The 777s seat from 301 to 368 passengers in a three-class configuration with a range of 5,210 nautical miles (9,649 km) in the 777-200 to 8,810 nautical miles (16,316 km) for the 777-200LR (longer range) model.']",1
+a three-class configuration,"['The 777s seat from 301 to 368 passengers in a three-class configuration with a range of 5,210 nautical miles (9,649 km) in the 777-200 to 8,810 nautical miles (16,316 km) for the 777-200LR (longer range) model.']",1
+a range,"['The 777s seat from 301 to 368 passengers in a three-class configuration with a range of 5,210 nautical miles (9,649 km) in the 777-200 to 8,810 nautical miles (16,316 km) for the 777-200LR (longer range) model.', 'It has a range similar to a 747-400, but with much better economics per seat mile.']",2
+"5,210 nautical mile","['The 777s seat from 301 to 368 passengers in a three-class configuration with a range of 5,210 nautical miles (9,649 km) in the 777-200 to 8,810 nautical miles (16,316 km) for the 777-200LR (longer range) model.']",1
+"9,649 km","['The 777s seat from 301 to 368 passengers in a three-class configuration with a range of 5,210 nautical miles (9,649 km) in the 777-200 to 8,810 nautical miles (16,316 km) for the 777-200LR (longer range) model.']",1
+"the 777-200 to 8,810 nautical mile","['The 777s seat from 301 to 368 passengers in a three-class configuration with a range of 5,210 nautical miles (9,649 km) in the 777-200 to 8,810 nautical miles (16,316 km) for the 777-200LR (longer range) model.']",1
+"16,316 km","['The 777s seat from 301 to 368 passengers in a three-class configuration with a range of 5,210 nautical miles (9,649 km) in the 777-200 to 8,810 nautical miles (16,316 km) for the 777-200LR (longer range) model.']",1
+the 777-200lr long range ) model,"['The 777s seat from 301 to 368 passengers in a three-class configuration with a range of 5,210 nautical miles (9,649 km) in the 777-200 to 8,810 nautical miles (16,316 km) for the 777-200LR (longer range) model.']",1
+the 777 program,['The 777 program was launched in October 1990 with an order from United Airlines.'],1
+october,['The 777 program was launched in October 1990 with an order from United Airlines.'],1
+an order,['The 777 program was launched in October 1990 with an order from United Airlines.'],1
+united airline,"['The 777 program was launched in October 1990 with an order from United Airlines.', 'It entered service in June 1995 with United Airlines, already qualified for 180-minute ETOPS (Extended-range Twin-engine Operations) - an industry first.']",2
+june,"['In June 1995, United flew its first 777 in revenue service.', 'The first 777-300 was delivered to Cathay Pacific Airways in June 1998.', 'It entered service in June 1995 with United Airlines, already qualified for 180-minute ETOPS (Extended-range Twin-engine Operations) - an industry first.']",3
+revenue service,"['In June 1995, United flew its first 777 in revenue service.']",1
+june 26th,"['On June 26th, 1995, the Boeing board of directors authorized production of the 777-300.']",1
+the boeing board,"['On June 26th, 1995, the Boeing board of directors authorized production of the 777-300.']",1
+director,"['On June 26th, 1995, the Boeing board of directors authorized production of the 777-300.']",1
+production,"['On June 26th, 1995, the Boeing board of directors authorized production of the 777-300.']",1
+pacific airway,['The first 777-300 was delivered to Cathay Pacific Airways in June 1998.'],1
+a high-capacity,"['The 777-300 is a high-capacity, stretched version of the newest twin-aisle jet.']",1
+version,"['The 777-300 is a high-capacity, stretched version of the newest twin-aisle jet.']",1
+the new twin-aisle jet,"['The 777-300 is a high-capacity, stretched version of the newest twin-aisle jet.']",1
+this new member,"['This newest member of the 777 family is ""market-driven"" to meet airline demand for a jetliner sized to replace older twin-aisle airplanes, including early versions of the 747.']",1
+the 777 family,"['This newest member of the 777 family is ""market-driven"" to meet airline demand for a jetliner sized to replace older twin-aisle airplanes, including early versions of the 747.', ""The 777-300 complements the existing range of available 777 models with another set of mission capabilities for the world's carriers and offers an attractive option for progressively lower costs per seat within the 777 family.""]",2
+airline demand,"['This newest member of the 777 family is ""market-driven"" to meet airline demand for a jetliner sized to replace older twin-aisle airplanes, including early versions of the 747.']",1
+a jetliner,"['This newest member of the 777 family is ""market-driven"" to meet airline demand for a jetliner sized to replace older twin-aisle airplanes, including early versions of the 747.']",1
+old twin-aisle airplane,"['This newest member of the 777 family is ""market-driven"" to meet airline demand for a jetliner sized to replace older twin-aisle airplanes, including early versions of the 747.']",1
+early version,"['This newest member of the 777 family is ""market-driven"" to meet airline demand for a jetliner sized to replace older twin-aisle airplanes, including early versions of the 747.']",1
+the 777-300 complement,"[""The 777-300 complements the existing range of available 777 models with another set of mission capabilities for the world's carriers and offers an attractive option for progressively lower costs per seat within the 777 family.""]",1
+the exist range,"[""The 777-300 complements the existing range of available 777 models with another set of mission capabilities for the world's carriers and offers an attractive option for progressively lower costs per seat within the 777 family.""]",1
+available 777 model,"[""The 777-300 complements the existing range of available 777 models with another set of mission capabilities for the world's carriers and offers an attractive option for progressively lower costs per seat within the 777 family.""]",1
+another set,"[""The 777-300 complements the existing range of available 777 models with another set of mission capabilities for the world's carriers and offers an attractive option for progressively lower costs per seat within the 777 family.""]",1
+mission capability,"[""The 777-300 complements the existing range of available 777 models with another set of mission capabilities for the world's carriers and offers an attractive option for progressively lower costs per seat within the 777 family.""]",1
+the world's carrier,"[""The 777-300 complements the existing range of available 777 models with another set of mission capabilities for the world's carriers and offers an attractive option for progressively lower costs per seat within the 777 family.""]",1
+an attractive option,"[""The 777-300 complements the existing range of available 777 models with another set of mission capabilities for the world's carriers and offers an attractive option for progressively lower costs per seat within the 777 family.""]",1
+progressively low cost,"[""The 777-300 complements the existing range of available 777 models with another set of mission capabilities for the world's carriers and offers an attractive option for progressively lower costs per seat within the 777 family.""]",1
+seat,"[""The 777-300 complements the existing range of available 777 models with another set of mission capabilities for the world's carriers and offers an attractive option for progressively lower costs per seat within the 777 family.""]",1
+two long-range airplane,['The 777-200LR (longer range) and 777-300ER (extended range) airplanes are two longer-range airplanes that Boeing has recently developed.'],1
+february,"['Launched in February 2000, the two airplanes can fly farther and faster than the A340 competition.']",1
+the two airplane,"['Launched in February 2000, the two airplanes can fly farther and faster than the A340 competition.']",1
+the a340 competition,"['Launched in February 2000, the two airplanes can fly farther and faster than the A340 competition.']",1
+additional flexibility,['Airlines will have additional flexibility in serving the non-stop routes that passengers demand.'],1
+the non-stop route,['Airlines will have additional flexibility in serving the non-stop routes that passengers demand.'],1
+the first jetliner,['The Boeing 777 is the first jetliner to be 100 percent digitally designed using three-dimensional computer graphics.'],1
+100 percent,['The Boeing 777 is the first jetliner to be 100 percent digitally designed using three-dimensional computer graphics.'],1
+three-dimensional computer graphic,['The Boeing 777 is the first jetliner to be 100 percent digitally designed using three-dimensional computer graphics.'],1
+the design process,"['Throughout the design process, the airplane was ""pre-assembled"" on the computer, eliminating the need for a costly, full-scale mock-up.']",1
+the computer,"['Throughout the design process, the airplane was ""pre-assembled"" on the computer, eliminating the need for a costly, full-scale mock-up.']",1
+the need,"['Throughout the design process, the airplane was ""pre-assembled"" on the computer, eliminating the need for a costly, full-scale mock-up.']",1
+"a costly, full-scale mock-up","['Throughout the design process, the airplane was ""pre-assembled"" on the computer, eliminating the need for a costly, full-scale mock-up.']",1
+new design and testing initiative,"['New design and testing initiatives helped ensure the highest possible levels of reliability on the very first 777, compared to what had been possible on previous jetliner introductions.']",1
+the high possible level,"['New design and testing initiatives helped ensure the highest possible levels of reliability on the very first 777, compared to what had been possible on previous jetliner introductions.']",1
+reliability,"['New design and testing initiatives helped ensure the highest possible levels of reliability on the very first 777, compared to what had been possible on previous jetliner introductions.', 'This further simplifies assembly and saves weight, while increasing reliability through a reduction in the amount of wires and connectors.']",2
+what,"['New design and testing initiatives helped ensure the highest possible levels of reliability on the very first 777, compared to what had been possible on previous jetliner introductions.']",1
+previous jetliner introduction,"['New design and testing initiatives helped ensure the highest possible levels of reliability on the very first 777, compared to what had been possible on previous jetliner introductions.']",1
+today's 777 operator,"[""Today's 777 operators enjoy a 99 percent reliability rate, which is unmatched in the industry.""]",1
+a 99 percent reliability rate,"[""Today's 777 operators enjoy a 99 percent reliability rate, which is unmatched in the industry.""]",1
+the industry,"[""Today's 777 operators enjoy a 99 percent reliability rate, which is unmatched in the industry.""]",1
+page 1 boee 777-200er aircraft operate manual,"['PAGE 1 Boeing 777-200ER Aircraft Operating Manual Applying schedules, time of day demands and competitive strength to a Boeing flight selection model, it is estimated that flying 777s instead of A340s would result in a revenue advantage of $18 million per airplane (10 percent net present value) for a typical airline.']",1
+schedule,"['PAGE 1 Boeing 777-200ER Aircraft Operating Manual Applying schedules, time of day demands and competitive strength to a Boeing flight selection model, it is estimated that flying 777s instead of A340s would result in a revenue advantage of $18 million per airplane (10 percent net present value) for a typical airline.', 'Built on the foundation of Trent 700 (which entered service in March 1995) experience, the Trent 800 was certified ahead of schedule at 90,000 lb thrust, exceeding its original target of 84,000 lb.']",2
+day demand,"['PAGE 1 Boeing 777-200ER Aircraft Operating Manual Applying schedules, time of day demands and competitive strength to a Boeing flight selection model, it is estimated that flying 777s instead of A340s would result in a revenue advantage of $18 million per airplane (10 percent net present value) for a typical airline.']",1
+competitive strength,"['PAGE 1 Boeing 777-200ER Aircraft Operating Manual Applying schedules, time of day demands and competitive strength to a Boeing flight selection model, it is estimated that flying 777s instead of A340s would result in a revenue advantage of $18 million per airplane (10 percent net present value) for a typical airline.']",1
+a boeing flight selection model,"['PAGE 1 Boeing 777-200ER Aircraft Operating Manual Applying schedules, time of day demands and competitive strength to a Boeing flight selection model, it is estimated that flying 777s instead of A340s would result in a revenue advantage of $18 million per airplane (10 percent net present value) for a typical airline.']",1
+777,"['PAGE 1 Boeing 777-200ER Aircraft Operating Manual Applying schedules, time of day demands and competitive strength to a Boeing flight selection model, it is estimated that flying 777s instead of A340s would result in a revenue advantage of $18 million per airplane (10 percent net present value) for a typical airline.']",1
+a340s,"['PAGE 1 Boeing 777-200ER Aircraft Operating Manual Applying schedules, time of day demands and competitive strength to a Boeing flight selection model, it is estimated that flying 777s instead of A340s would result in a revenue advantage of $18 million per airplane (10 percent net present value) for a typical airline.']",1
+a revenue advantage,"['PAGE 1 Boeing 777-200ER Aircraft Operating Manual Applying schedules, time of day demands and competitive strength to a Boeing flight selection model, it is estimated that flying 777s instead of A340s would result in a revenue advantage of $18 million per airplane (10 percent net present value) for a typical airline.']",1
+airplane,"['PAGE 1 Boeing 777-200ER Aircraft Operating Manual Applying schedules, time of day demands and competitive strength to a Boeing flight selection model, it is estimated that flying 777s instead of A340s would result in a revenue advantage of $18 million per airplane (10 percent net present value) for a typical airline.']",1
+10 percent net present value,"['PAGE 1 Boeing 777-200ER Aircraft Operating Manual Applying schedules, time of day demands and competitive strength to a Boeing flight selection model, it is estimated that flying 777s instead of A340s would result in a revenue advantage of $18 million per airplane (10 percent net present value) for a typical airline.']",1
+a typical airline,"['PAGE 1 Boeing 777-200ER Aircraft Operating Manual Applying schedules, time of day demands and competitive strength to a Boeing flight selection model, it is estimated that flying 777s instead of A340s would result in a revenue advantage of $18 million per airplane (10 percent net present value) for a typical airline.']",1
+this advantage result,['This advantage results from increased market share due to the higher image an airline would have with the preferred 777 in its fleet.'],1
+increase market share,['This advantage results from increased market share due to the higher image an airline would have with the preferred 777 in its fleet.'],1
+the high image,['This advantage results from increased market share due to the higher image an airline would have with the preferred 777 in its fleet.'],1
+an airline,['This advantage results from increased market share due to the higher image an airline would have with the preferred 777 in its fleet.'],1
+its fleet,['This advantage results from increased market share due to the higher image an airline would have with the preferred 777 in its fleet.'],1
+year,['This is equivalent to about $3.4 million per year per airline as a result of having an additional 15 passengers per flight.'],1
+a result,['This is equivalent to about $3.4 million per year per airline as a result of having an additional 15 passengers per flight.'],1
+an additional 15 passenger,['This is equivalent to about $3.4 million per year per airline as a result of having an additional 15 passengers per flight.'],1
+both the 777-200lr,['Both the 777-200LR and the 777-300ER were entered into service within the past year.'],1
+service,"['Both the 777-200LR and the 777-300ER were entered into service within the past year.', 'Built on the foundation of Trent 700 (which entered service in March 1995) experience, the Trent 800 was certified ahead of schedule at 90,000 lb thrust, exceeding its original target of 84,000 lb.', 'PAGE 3 Boeing 777-200ER Aircraft Operating Manual Certification, first delivery, and entry into service of the 777-300ER are set for 2003.', 'It entered service in June 1995 with United Airlines, already qualified for 180-minute ETOPS (Extended-range Twin-engine Operations) - an industry first.', 'The PW4090, certified at 91,790 pounds of thrust, entered service on the Boeing 777-200ER airplane in March 1997.']",5
+the past year,['Both the 777-200LR and the 777-300ER were entered into service within the past year.'],1
+the two model,['The first of the two models is the longest-range aircraft ever to fly in the history of the world.'],1
+the long-range aircraft,['The first of the two models is the longest-range aircraft ever to fly in the history of the world.'],1
+the history,['The first of the two models is the longest-range aircraft ever to fly in the history of the world.'],1
+the world,"['The first of the two models is the longest-range aircraft ever to fly in the history of the world.', 'PAGE 22 Boeing 777-200ER Aircraft Operating Manual PILOT NOTES AND OBSERVATIONS While the 777 is one of the most technologically advanced commercial aircraft in the world, pilots should always remember that the 777 is still a very large aircraft.']",2
+the long ever non-stop flight,['It recently completed the longest ever non-stop flight from Hong Kong to London going the long way around clocking in at just under 23 hours non-stop!'],1
+hong kong,['It recently completed the longest ever non-stop flight from Hong Kong to London going the long way around clocking in at just under 23 hours non-stop!'],1
+the long way,['It recently completed the longest ever non-stop flight from Hong Kong to London going the long way around clocking in at just under 23 hours non-stop!'],1
+just under 23 hour,['It recently completed the longest ever non-stop flight from Hong Kong to London going the long way around clocking in at just under 23 hours non-stop!'],1
+a versatile long-range aircraft,['The 777-300ER is a versatile long-range aircraft with an increased capacity over the -200ER/LR.'],1
+an increase capacity,['The 777-300ER is a versatile long-range aircraft with an increased capacity over the -200ER/LR.'],1
+the -200er/lr,['The 777-300ER is a versatile long-range aircraft with an increased capacity over the -200ER/LR.'],1
+much well economic,"['It has a range similar to a 747-400, but with much better economics per seat mile.']",1
+seat mile,"['It has a range similar to a 747-400, but with much better economics per seat mile.']",1
+may 30th,"['On May 30th, 1995 the 777 became the first airplane in aviation history to earn U.S. Federal Aviation Administration (FAA) approval to fly 180-minute extended range twin-engine operations (ETOPS) at service entry.']",1
+the first airplane,"['On May 30th, 1995 the 777 became the first airplane in aviation history to earn U.S. Federal Aviation Administration (FAA) approval to fly 180-minute extended range twin-engine operations (ETOPS) at service entry.']",1
+aviation history,"['On May 30th, 1995 the 777 became the first airplane in aviation history to earn U.S. Federal Aviation Administration (FAA) approval to fly 180-minute extended range twin-engine operations (ETOPS) at service entry.']",1
+u.s,"['On May 30th, 1995 the 777 became the first airplane in aviation history to earn U.S. Federal Aviation Administration (FAA) approval to fly 180-minute extended range twin-engine operations (ETOPS) at service entry.']",1
+federal aviation administration,"['On May 30th, 1995 the 777 became the first airplane in aviation history to earn U.S. Federal Aviation Administration (FAA) approval to fly 180-minute extended range twin-engine operations (ETOPS) at service entry.', ""It received FAR33 certification (rated at 115,000 lbs of thrust) by the U.S. Federal Aviation Administration and the European Community's Joint Airworthiness Authorities in 2002.""]",2
+faa ) approval,"['On May 30th, 1995 the 777 became the first airplane in aviation history to earn U.S. Federal Aviation Administration (FAA) approval to fly 180-minute extended range twin-engine operations (ETOPS) at service entry.']",1
+180-minute extended range twin-engine operation,"['On May 30th, 1995 the 777 became the first airplane in aviation history to earn U.S. Federal Aviation Administration (FAA) approval to fly 180-minute extended range twin-engine operations (ETOPS) at service entry.']",1
+etop,"['On May 30th, 1995 the 777 became the first airplane in aviation history to earn U.S. Federal Aviation Administration (FAA) approval to fly 180-minute extended range twin-engine operations (ETOPS) at service entry.', 'Log Book / ETOPS CHECKED & ON BOARD (cid:131)']",2
+service entry,"['On May 30th, 1995 the 777 became the first airplane in aviation history to earn U.S. Federal Aviation Administration (FAA) approval to fly 180-minute extended range twin-engine operations (ETOPS) at service entry.']",1
+another historic milestone,"['On May 4, 1998, the 777-300 achieved another historic milestone by becoming the first commercial airplane to receive type certification and 180-ETOPS approval on the same day.']",1
+the first commercial airplane,"['On May 4, 1998, the 777-300 achieved another historic milestone by becoming the first commercial airplane to receive type certification and 180-ETOPS approval on the same day.']",1
+type certification,"['On May 4, 1998, the 777-300 achieved another historic milestone by becoming the first commercial airplane to receive type certification and 180-ETOPS approval on the same day.']",1
+180-etops approval,"['On May 4, 1998, the 777-300 achieved another historic milestone by becoming the first commercial airplane to receive type certification and 180-ETOPS approval on the same day.']",1
+the same day,"['On May 4, 1998, the 777-300 achieved another historic milestone by becoming the first commercial airplane to receive type certification and 180-ETOPS approval on the same day.']",1
+february 15th,"['On February 15th, 1996 the 777 was named the winner of the prestigious Robert J. Collier Trophy by the U.S. National Aeronautic Association, honoring the 777 as the top aeronautical achievement of 1995.']",1
+the winner,"['On February 15th, 1996 the 777 was named the winner of the prestigious Robert J. Collier Trophy by the U.S. National Aeronautic Association, honoring the 777 as the top aeronautical achievement of 1995.']",1
+the prestigious robert j. colly trophy,"['On February 15th, 1996 the 777 was named the winner of the prestigious Robert J. Collier Trophy by the U.S. National Aeronautic Association, honoring the 777 as the top aeronautical achievement of 1995.']",1
+the u.s,"['On February 15th, 1996 the 777 was named the winner of the prestigious Robert J. Collier Trophy by the U.S. National Aeronautic Association, honoring the 777 as the top aeronautical achievement of 1995.', ""It received FAR33 certification (rated at 115,000 lbs of thrust) by the U.S. Federal Aviation Administration and the European Community's Joint Airworthiness Authorities in 2002.""]",2
+national aeronautic association,"['On February 15th, 1996 the 777 was named the winner of the prestigious Robert J. Collier Trophy by the U.S. National Aeronautic Association, honoring the 777 as the top aeronautical achievement of 1995.']",1
+the top aeronautical achievement,"['On February 15th, 1996 the 777 was named the winner of the prestigious Robert J. Collier Trophy by the U.S. National Aeronautic Association, honoring the 777 as the top aeronautical achievement of 1995.']",1
+page 2 boee 777-200er aircraft operate manual engine type,['PAGE 2 Boeing 777-200ER Aircraft Operating Manual ENGINE TYPES'],1
+a choice,"['The Boeing 777 is available with a choice of three major turbofan engines, from the major global manufacturers.']",1
+three major turbofan engine,"['The Boeing 777 is available with a choice of three major turbofan engines, from the major global manufacturers.']",1
+the major global manufacturer,"['The Boeing 777 is available with a choice of three major turbofan engines, from the major global manufacturers.']",1
+delta,"[""Delta uses the Rolls-Royce Trents, Air France uses the GE's, and Korean uses the Pratt and Whitney's."", 'Passengers (Delta) o BusinessElite\\xc2\\xae: 52 o Coach: 225 (cid:131)', 'Delta o', 'The installer also contains replacement textures for the default B777-300 that comes with Microsoft Flight Simulator, in Delta, Air France and Korean Air Lines.']",4
+the roll-royce trent,"[""Delta uses the Rolls-Royce Trents, Air France uses the GE's, and Korean uses the Pratt and Whitney's.""]",1
+air france,"[""Delta uses the Rolls-Royce Trents, Air France uses the GE's, and Korean uses the Pratt and Whitney's."", 'Air France, Japan Airlines, All Nippon, EVA, International Lease Finance, and GE Capital Aviation Services have ordered a total of 49 firm 777 longer-range aircraft.', 'Air France, Continental o General Electric GE90-94B, max SLS thrust: 93,700 lbs each (cid:131)', 'The Boeing 777 fleet installer contains no fewer than ten aircraft - MelJet Delta Air Lines B777-200ER models in the three Delta liveries, as well as examples in Air France and Korean Air Lines colors.', 'The installer also contains replacement textures for the default B777-300 that comes with Microsoft Flight Simulator, in Delta, Air France and Korean Air Lines.']",5
+the ge,"[""Delta uses the Rolls-Royce Trents, Air France uses the GE's, and Korean uses the Pratt and Whitney's.""]",1
+the pratt,"[""Delta uses the Rolls-Royce Trents, Air France uses the GE's, and Korean uses the Pratt and Whitney's.""]",1
+roll-royce trent,['ROLLS-ROYCE TRENT 800'],1
+the trent 800 enter service,['The Trent 800 entered service in April 1996.'],1
+april,['The Trent 800 entered service in April 1996.'],1
+the foundation,"['Built on the foundation of Trent 700 (which entered service in March 1995) experience, the Trent 800 was certified ahead of schedule at 90,000 lb thrust, exceeding its original target of 84,000 lb.']",1
+trent,"['Built on the foundation of Trent 700 (which entered service in March 1995) experience, the Trent 800 was certified ahead of schedule at 90,000 lb thrust, exceeding its original target of 84,000 lb.', 'Rolls Royce Trent 892, max SLS thrust: 92,000 lbs each (cid:131)']",2
+march 1995 ) experience,"['Built on the foundation of Trent 700 (which entered service in March 1995) experience, the Trent 800 was certified ahead of schedule at 90,000 lb thrust, exceeding its original target of 84,000 lb.']",1
+the trent,"['Built on the foundation of Trent 700 (which entered service in March 1995) experience, the Trent 800 was certified ahead of schedule at 90,000 lb thrust, exceeding its original target of 84,000 lb.', 'Today the Trent 800 is available from 75,000 to 95,000 lb thrust with a common engine standard, the widest range of any engine in its class.', 'Today, the Trent 800 is the power plant of choice for the 777, with around 44% of the available market.']",3
+"90,000 lb thrust","['Built on the foundation of Trent 700 (which entered service in March 1995) experience, the Trent 800 was certified ahead of schedule at 90,000 lb thrust, exceeding its original target of 84,000 lb.']",1
+its original target,"['Built on the foundation of Trent 700 (which entered service in March 1995) experience, the Trent 800 was certified ahead of schedule at 90,000 lb thrust, exceeding its original target of 84,000 lb.']",1
+"84,000 lb","['Built on the foundation of Trent 700 (which entered service in March 1995) experience, the Trent 800 was certified ahead of schedule at 90,000 lb thrust, exceeding its original target of 84,000 lb.']",1
+a reputation,['The Trent 800 rapidly established a reputation-for industry leading reliability and the capability of the original design has been demonstrated by continuing thrust growth.'],1
+industry lead reliability,['The Trent 800 rapidly established a reputation-for industry leading reliability and the capability of the original design has been demonstrated by continuing thrust growth.'],1
+the capability,['The Trent 800 rapidly established a reputation-for industry leading reliability and the capability of the original design has been demonstrated by continuing thrust growth.'],1
+the original design,['The Trent 800 rapidly established a reputation-for industry leading reliability and the capability of the original design has been demonstrated by continuing thrust growth.'],1
+thrust growth,['The Trent 800 rapidly established a reputation-for industry leading reliability and the capability of the original design has been demonstrated by continuing thrust growth.'],1
+a common engine standard,"['Today the Trent 800 is available from 75,000 to 95,000 lb thrust with a common engine standard, the widest range of any engine in its class.']",1
+any engine,"['Today the Trent 800 is available from 75,000 to 95,000 lb thrust with a common engine standard, the widest range of any engine in its class.']",1
+its class,"['Today the Trent 800 is available from 75,000 to 95,000 lb thrust with a common engine standard, the widest range of any engine in its class.']",1
+its three-shaft configuration,"['Its three-shaft configuration and second-generation hollow titanium wide-chord fan technology also mean that a Trent-powered Boeing 777 weighs up to 8,000 lb less than competitor-powered versions.']",1
+second-generation hollow titanium wide-chord fan technology,"['Its three-shaft configuration and second-generation hollow titanium wide-chord fan technology also mean that a Trent-powered Boeing 777 weighs up to 8,000 lb less than competitor-powered versions.']",1
+a trent-powered boeing,"['Its three-shaft configuration and second-generation hollow titanium wide-chord fan technology also mean that a Trent-powered Boeing 777 weighs up to 8,000 lb less than competitor-powered versions.']",1
+"up to 8,000 lb","['Its three-shaft configuration and second-generation hollow titanium wide-chord fan technology also mean that a Trent-powered Boeing 777 weighs up to 8,000 lb less than competitor-powered versions.']",1
+competitor-powered version,"['Its three-shaft configuration and second-generation hollow titanium wide-chord fan technology also mean that a Trent-powered Boeing 777 weighs up to 8,000 lb less than competitor-powered versions.']",1
+low weight,['Low weight and high thrust equates to optimum revenue earning capability.'],1
+high thrust,['Low weight and high thrust equates to optimum revenue earning capability.'],1
+optimum revenue earning capability,['Low weight and high thrust equates to optimum revenue earning capability.'],1
+the power plant,"['Today, the Trent 800 is the power plant of choice for the 777, with around 44% of the available market.']",1
+choice,"['Today, the Trent 800 is the power plant of choice for the 777, with around 44% of the available market.']",1
+around 44 %,"['Today, the Trent 800 is the power plant of choice for the 777, with around 44% of the available market.']",1
+the available market,"['Today, the Trent 800 is the power plant of choice for the 777, with around 44% of the available market.']",1
+general electric ge90,['GENERAL ELECTRIC GE90'],1
+an extensive technical evaluation,"['Following an extensive technical evaluation, GE Aircraft Engines was specified by The Boeing Company to develop a 115,000 pound-thrust GE90 derivative engine for all longer-range 777-200LR and -300ER derivatives.']",1
+ge aircraft engine,"['Following an extensive technical evaluation, GE Aircraft Engines was specified by The Boeing Company to develop a 115,000 pound-thrust GE90 derivative engine for all longer-range 777-200LR and -300ER derivatives.']",1
+the boeing company,"['Following an extensive technical evaluation, GE Aircraft Engines was specified by The Boeing Company to develop a 115,000 pound-thrust GE90 derivative engine for all longer-range 777-200LR and -300ER derivatives.']",1
+"a 115,000 pound-thrust ge90 derivative engine","['Following an extensive technical evaluation, GE Aircraft Engines was specified by The Boeing Company to develop a 115,000 pound-thrust GE90 derivative engine for all longer-range 777-200LR and -300ER derivatives.']",1
+all long-range 777-200lr and -300er derivative,"['Following an extensive technical evaluation, GE Aircraft Engines was specified by The Boeing Company to develop a 115,000 pound-thrust GE90 derivative engine for all longer-range 777-200LR and -300ER derivatives.']",1
+the advanced technology,['The advanced technologies that were introduced on the original engine in 1995 are incorporated into the GE90-115B engine.'],1
+the original engine,['The advanced technologies that were introduced on the original engine in 1995 are incorporated into the GE90-115B engine.'],1
+the ge90-115b engine,['The advanced technologies that were introduced on the original engine in 1995 are incorporated into the GE90-115B engine.'],1
+this derivative engine,['This derivative engine represents the successful culmination of our original strategy in the early 1990s to build a new centerline engine for the Boeing 777 aircraft family.'],1
+the successful culmination,['This derivative engine represents the successful culmination of our original strategy in the early 1990s to build a new centerline engine for the Boeing 777 aircraft family.'],1
+our original strategy,['This derivative engine represents the successful culmination of our original strategy in the early 1990s to build a new centerline engine for the Boeing 777 aircraft family.'],1
+the early 1990,['This derivative engine represents the successful culmination of our original strategy in the early 1990s to build a new centerline engine for the Boeing 777 aircraft family.'],1
+a new centerline engine,['This derivative engine represents the successful culmination of our original strategy in the early 1990s to build a new centerline engine for the Boeing 777 aircraft family.'],1
+the boeing 777 aircraft family,['This derivative engine represents the successful culmination of our original strategy in the early 1990s to build a new centerline engine for the Boeing 777 aircraft family.'],1
+the ge90-115b,"[""Today, the GE90-115B is the world's most powerful jet engine sustaining a record 122,965 lbs of thrust during initial ground testing at GE's outdoor test facility near Peebles, Ohio.""]",1
+the world's most powerful jet engine,"[""Today, the GE90-115B is the world's most powerful jet engine sustaining a record 122,965 lbs of thrust during initial ground testing at GE's outdoor test facility near Peebles, Ohio.""]",1
+"a record 122,965 lbs","[""Today, the GE90-115B is the world's most powerful jet engine sustaining a record 122,965 lbs of thrust during initial ground testing at GE's outdoor test facility near Peebles, Ohio.""]",1
+thrust,"[""Today, the GE90-115B is the world's most powerful jet engine sustaining a record 122,965 lbs of thrust during initial ground testing at GE's outdoor test facility near Peebles, Ohio."", ""It received FAR33 certification (rated at 115,000 lbs of thrust) by the U.S. Federal Aviation Administration and the European Community's Joint Airworthiness Authorities in 2002."", 'The PW4090, certified at 91,790 pounds of thrust, entered service on the Boeing 777-200ER airplane in March 1997.', 'The PW4098, at 99,040 pounds of thrust, is available for 777-200ER and 777-300 models.', 'Integrated Airplane Information Management System (AIMS) provides flight and maintenance crews all pertinent information concerning the overall condition of the airplane, its maintenance requirements and its key operating functions, including flight, thrust and communications management.', 'Initial rate of climb: 2000 - 4000 fpm, depending on GW and CLB thrust, at 250 KIAS to 10,000 feet MSL.']",6
+initial ground testing,"[""Today, the GE90-115B is the world's most powerful jet engine sustaining a record 122,965 lbs of thrust during initial ground testing at GE's outdoor test facility near Peebles, Ohio.""]",1
+ge's outdoor test facility,"[""Today, the GE90-115B is the world's most powerful jet engine sustaining a record 122,965 lbs of thrust during initial ground testing at GE's outdoor test facility near Peebles, Ohio.""]",1
+peeble,"[""Today, the GE90-115B is the world's most powerful jet engine sustaining a record 122,965 lbs of thrust during initial ground testing at GE's outdoor test facility near Peebles, Ohio.""]",1
+ohio,"[""Today, the GE90-115B is the world's most powerful jet engine sustaining a record 122,965 lbs of thrust during initial ground testing at GE's outdoor test facility near Peebles, Ohio.""]",1
+the engine,"[""In early 2002, the engine began flight tests on GE's Boeing 747 flying test bed at Mojave, California."", 'The engine has many advanced, service-proven technologies to enhance operational performance and durability.', 'For transportability, the engine can be shipped in a 747F as a complete engine.', 'Shut down the engines.']",4
+flight test,"[""In early 2002, the engine began flight tests on GE's Boeing 747 flying test bed at Mojave, California.""]",1
+ge's boee 747 fly test bed,"[""In early 2002, the engine began flight tests on GE's Boeing 747 flying test bed at Mojave, California.""]",1
+mojave,"[""In early 2002, the engine began flight tests on GE's Boeing 747 flying test bed at Mojave, California.""]",1
+california,"[""In early 2002, the engine began flight tests on GE's Boeing 747 flying test bed at Mojave, California.""]",1
+far33 certification,"[""It received FAR33 certification (rated at 115,000 lbs of thrust) by the U.S. Federal Aviation Administration and the European Community's Joint Airworthiness Authorities in 2002.""]",1
+"115,000 lbs","[""It received FAR33 certification (rated at 115,000 lbs of thrust) by the U.S. Federal Aviation Administration and the European Community's Joint Airworthiness Authorities in 2002.""]",1
+the european community's joint airworthiness authority,"[""It received FAR33 certification (rated at 115,000 lbs of thrust) by the U.S. Federal Aviation Administration and the European Community's Joint Airworthiness Authorities in 2002.""]",1
+page 3 boee 777-200er aircraft operate manual certification,"['PAGE 3 Boeing 777-200ER Aircraft Operating Manual Certification, first delivery, and entry into service of the 777-300ER are set for 2003.']",1
+first delivery,"['PAGE 3 Boeing 777-200ER Aircraft Operating Manual Certification, first delivery, and entry into service of the 777-300ER are set for 2003.']",1
+entry,"['PAGE 3 Boeing 777-200ER Aircraft Operating Manual Certification, first delivery, and entry into service of the 777-300ER are set for 2003.']",1
+japan airline,"['Air France, Japan Airlines, All Nippon, EVA, International Lease Finance, and GE Capital Aviation Services have ordered a total of 49 firm 777 longer-range aircraft.']",1
+ge capital aviation service,"['Air France, Japan Airlines, All Nippon, EVA, International Lease Finance, and GE Capital Aviation Services have ordered a total of 49 firm 777 longer-range aircraft.']",1
+a total,"['Air France, Japan Airlines, All Nippon, EVA, International Lease Finance, and GE Capital Aviation Services have ordered a total of 49 firm 777 longer-range aircraft.', 'Both side tanks have a capacity of 61,395 lbs of fuel (9,300 gallons), while the center fuel tank has a capacity of 81,859 lbs of fuel (12,400 gallons) for a total of approximately 204,649 lbs or 31,000 gallons.']",2
+49 firm,"['Air France, Japan Airlines, All Nippon, EVA, International Lease Finance, and GE Capital Aviation Services have ordered a total of 49 firm 777 longer-range aircraft.']",1
+777 long-range aircraft,"['Air France, Japan Airlines, All Nippon, EVA, International Lease Finance, and GE Capital Aviation Services have ordered a total of 49 firm 777 longer-range aircraft.']",1
+pratt,"['PRATT & WHITNEY PW4090', 'This manual makes no claim to represent Boeing, Rolls Royce, General Electric, Pratt & Whitney, Microsoft, Delta Air Lines, Melvin Rafi or any other party involved.']",2
+the pw4000 112-inch fan engine,"['The PW4000 112-inch fan engine is the second derivative model in the PW4000 engine family.', 'The PW4000 112-inch fan engine retains the excellent accessibility and component modularity of other PW4000 family members to reduce maintenance time and cost.', 'The PW4000 112-inch fan engine is the reliability, experience and ETOPS leader for 777 aircraft, providing the best customer value.']",3
+the second derivative model,['The PW4000 112-inch fan engine is the second derivative model in the PW4000 engine family.'],1
+the pw4000 engine family,['The PW4000 112-inch fan engine is the second derivative model in the PW4000 engine family.'],1
+the pw4084,"[""The PW4084, certified at 86,760 pounds thrust, was the launch engine for Boeing's 777 super twinjet.""]",1
+"86,760 pound thrust","[""The PW4084, certified at 86,760 pounds thrust, was the launch engine for Boeing's 777 super twinjet.""]",1
+the launch engine,"[""The PW4084, certified at 86,760 pounds thrust, was the launch engine for Boeing's 777 super twinjet.""]",1
+boeing's 777 super twinjet,"[""The PW4084, certified at 86,760 pounds thrust, was the launch engine for Boeing's 777 super twinjet.""]",1
+180-minute etop,"['It entered service in June 1995 with United Airlines, already qualified for 180-minute ETOPS (Extended-range Twin-engine Operations) - an industry first.']",1
+extend-range twin-engine operation,"['It entered service in June 1995 with United Airlines, already qualified for 180-minute ETOPS (Extended-range Twin-engine Operations) - an industry first.']",1
+an industry,"['It entered service in June 1995 with United Airlines, already qualified for 180-minute ETOPS (Extended-range Twin-engine Operations) - an industry first.']",1
+the first engine,['It is also the first engine to operate with approval for 207-minute ETOPS.'],1
+approval,['It is also the first engine to operate with approval for 207-minute ETOPS.'],1
+207-minute etop,['It is also the first engine to operate with approval for 207-minute ETOPS.'],1
+the pw4090,"['The PW4090, certified at 91,790 pounds of thrust, entered service on the Boeing 777-200ER airplane in March 1997.']",1
+"91,790 pound","['The PW4090, certified at 91,790 pounds of thrust, entered service on the Boeing 777-200ER airplane in March 1997.']",1
+the boee 777-200er airplane,"['The PW4090, certified at 91,790 pounds of thrust, entered service on the Boeing 777-200ER airplane in March 1997.']",1
+march,"['The PW4090, certified at 91,790 pounds of thrust, entered service on the Boeing 777-200ER airplane in March 1997.']",1
+the most recent model,"['The most recent model, the PW4098, was certified in July 1998.']",1
+the pw4098,"['The most recent model, the PW4098, was certified in July 1998.', 'The PW4098, at 99,040 pounds of thrust, is available for 777-200ER and 777-300 models.']",2
+july,"['The most recent model, the PW4098, was certified in July 1998.']",1
+"99,040 pound","['The PW4098, at 99,040 pounds of thrust, is available for 777-200ER and 777-300 models.']",1
+777-300 model,"['The PW4098, at 99,040 pounds of thrust, is available for 777-200ER and 777-300 models.']",1
+"many advanced, service-proven technology","['The engine has many advanced, service-proven technologies to enhance operational performance and durability.']",1
+operational performance,"['The engine has many advanced, service-proven technologies to enhance operational performance and durability.']",1
+durability,"['The engine has many advanced, service-proven technologies to enhance operational performance and durability.']",1
+the industry's most advanced single-crystal superalloy material,"[""These include the industry's most advanced single-crystal superalloy materials, powdered metal disks, TALON (Technology for Advanced Low NOx) combustor technology (PW4098), and an improved Full-Authority Digital Electronic Control (FADEC).""]",1
+powdered metal disk,"[""These include the industry's most advanced single-crystal superalloy materials, powdered metal disks, TALON (Technology for Advanced Low NOx) combustor technology (PW4098), and an improved Full-Authority Digital Electronic Control (FADEC).""]",1
+talon,"[""These include the industry's most advanced single-crystal superalloy materials, powdered metal disks, TALON (Technology for Advanced Low NOx) combustor technology (PW4098), and an improved Full-Authority Digital Electronic Control (FADEC).""]",1
+technology,"[""These include the industry's most advanced single-crystal superalloy materials, powdered metal disks, TALON (Technology for Advanced Low NOx) combustor technology (PW4098), and an improved Full-Authority Digital Electronic Control (FADEC).""]",1
+advanced low nox,"[""These include the industry's most advanced single-crystal superalloy materials, powdered metal disks, TALON (Technology for Advanced Low NOx) combustor technology (PW4098), and an improved Full-Authority Digital Electronic Control (FADEC).""]",1
+combustor technology,"[""These include the industry's most advanced single-crystal superalloy materials, powdered metal disks, TALON (Technology for Advanced Low NOx) combustor technology (PW4098), and an improved Full-Authority Digital Electronic Control (FADEC).""]",1
+pw4098,"[""These include the industry's most advanced single-crystal superalloy materials, powdered metal disks, TALON (Technology for Advanced Low NOx) combustor technology (PW4098), and an improved Full-Authority Digital Electronic Control (FADEC).""]",1
+an improved full-authority digital electronic control,"[""These include the industry's most advanced single-crystal superalloy materials, powdered metal disks, TALON (Technology for Advanced Low NOx) combustor technology (PW4098), and an improved Full-Authority Digital Electronic Control (FADEC).""]",1
+fadec,"[""These include the industry's most advanced single-crystal superalloy materials, powdered metal disks, TALON (Technology for Advanced Low NOx) combustor technology (PW4098), and an improved Full-Authority Digital Electronic Control (FADEC).""]",1
+these feature,"[""These features contribute to the engine's excellent environmental performance, which meets with margin all current and anticipated noise and emissions regulations.""]",1
+the engine's excellent environmental performance,"[""These features contribute to the engine's excellent environmental performance, which meets with margin all current and anticipated noise and emissions regulations.""]",1
+margin,"[""These features contribute to the engine's excellent environmental performance, which meets with margin all current and anticipated noise and emissions regulations.""]",1
+all current and anticipate noise and emission regulation,"[""These features contribute to the engine's excellent environmental performance, which meets with margin all current and anticipated noise and emissions regulations.""]",1
+the excellent accessibility,['The PW4000 112-inch fan engine retains the excellent accessibility and component modularity of other PW4000 family members to reduce maintenance time and cost.'],1
+component modularity,['The PW4000 112-inch fan engine retains the excellent accessibility and component modularity of other PW4000 family members to reduce maintenance time and cost.'],1
+other pw4000 family member,['The PW4000 112-inch fan engine retains the excellent accessibility and component modularity of other PW4000 family members to reduce maintenance time and cost.'],1
+maintenance time,['The PW4000 112-inch fan engine retains the excellent accessibility and component modularity of other PW4000 family members to reduce maintenance time and cost.'],1
+cost,['The PW4000 112-inch fan engine retains the excellent accessibility and component modularity of other PW4000 family members to reduce maintenance time and cost.'],1
+transportability,"['For transportability, the engine can be shipped in a 747F as a complete engine.']",1
+a 747f,"['For transportability, the engine can be shipped in a 747F as a complete engine.']",1
+a complete engine,"['For transportability, the engine can be shipped in a 747F as a complete engine.']",1
+the fan case,"[""Also, the fan case is easily separated from the engine's core for split shipment without disturbing the bearing compartments.""]",1
+the engine's core,"[""Also, the fan case is easily separated from the engine's core for split shipment without disturbing the bearing compartments.""]",1
+split shipment,"[""Also, the fan case is easily separated from the engine's core for split shipment without disturbing the bearing compartments.""]",1
+the bear compartment,"[""Also, the fan case is easily separated from the engine's core for split shipment without disturbing the bearing compartments.""]",1
+the reliability,"['The PW4000 112-inch fan engine is the reliability, experience and ETOPS leader for 777 aircraft, providing the best customer value.']",1
+experience,"['The PW4000 112-inch fan engine is the reliability, experience and ETOPS leader for 777 aircraft, providing the best customer value.']",1
+leader,"['The PW4000 112-inch fan engine is the reliability, experience and ETOPS leader for 777 aircraft, providing the best customer value.']",1
+777 aircraft,"['The PW4000 112-inch fan engine is the reliability, experience and ETOPS leader for 777 aircraft, providing the best customer value.']",1
+the good customer value,"['The PW4000 112-inch fan engine is the reliability, experience and ETOPS leader for 777 aircraft, providing the best customer value.']",1
+response,"['In response to airline preference, the layout of the 777 flight deck is in a horizontal format similar to that of other recent Boeing aircraft, such as the 757, 767 and the 747-400.', 'The CDUs have color displays, again in response to market preferences.']",2
+airline preference,"['In response to airline preference, the layout of the 777 flight deck is in a horizontal format similar to that of other recent Boeing aircraft, such as the 757, 767 and the 747-400.']",1
+the layout,"['In response to airline preference, the layout of the 777 flight deck is in a horizontal format similar to that of other recent Boeing aircraft, such as the 757, 767 and the 747-400.']",1
+the 777 flight deck,"['In response to airline preference, the layout of the 777 flight deck is in a horizontal format similar to that of other recent Boeing aircraft, such as the 757, 767 and the 747-400.']",1
+a horizontal format,"['In response to airline preference, the layout of the 777 flight deck is in a horizontal format similar to that of other recent Boeing aircraft, such as the 757, 767 and the 747-400.']",1
+other recent boeing aircraft,"['In response to airline preference, the layout of the 777 flight deck is in a horizontal format similar to that of other recent Boeing aircraft, such as the 757, 767 and the 747-400.']",1
+the 757,"['In response to airline preference, the layout of the 777 flight deck is in a horizontal format similar to that of other recent Boeing aircraft, such as the 757, 767 and the 747-400.']",1
+flight deck feature,"['Flight deck features include the following: Principal flight, navigation and engine information is presented on six large display screens incorporating advanced liquid-crystal display technology.']",1
+"principal flight, navigation and engine information","['Flight deck features include the following: Principal flight, navigation and engine information is presented on six large display screens incorporating advanced liquid-crystal display technology.']",1
+six large display screen,"['Flight deck features include the following: Principal flight, navigation and engine information is presented on six large display screens incorporating advanced liquid-crystal display technology.']",1
+advanced liquid-crystal display technology,"['Flight deck features include the following: Principal flight, navigation and engine information is presented on six large display screens incorporating advanced liquid-crystal display technology.']",1
+the new display,"['The new displays save space, weigh less, require less power and generate less heat, which contributes to greater reliability and a longer service life.']",1
+space,"['The new displays save space, weigh less, require less power and generate less heat, which contributes to greater reliability and a longer service life.']",1
+less power,"['The new displays save space, weigh less, require less power and generate less heat, which contributes to greater reliability and a longer service life.']",1
+less heat,"['The new displays save space, weigh less, require less power and generate less heat, which contributes to greater reliability and a longer service life.']",1
+great reliability,"['The new displays save space, weigh less, require less power and generate less heat, which contributes to greater reliability and a longer service life.']",1
+a long service life,"['The new displays save space, weigh less, require less power and generate less heat, which contributes to greater reliability and a longer service life.']",1
+"the heavy, complex air conditioning apparatus","['They do not require the heavy, complex air conditioning apparatus needed to cool equipment on current flight decks.']",1
+cool equipment,"['They do not require the heavy, complex air conditioning apparatus needed to cool equipment on current flight decks.']",1
+current flight deck,"['They do not require the heavy, complex air conditioning apparatus needed to cool equipment on current flight decks.']",1
+the flat panel display,"['The flat panel displays remain clearly visible in all conditions, even direct sunlight.']",1
+all condition,"['The flat panel displays remain clearly visible in all conditions, even direct sunlight.']",1
+even direct sunlight,"['The flat panel displays remain clearly visible in all conditions, even direct sunlight.']",1
+three multi-purpose control display unit,['Three multi-purpose control display units (CDU) provide data display and entry capabilities for flight management functions.'],1
+cdu,['Three multi-purpose control display units (CDU) provide data display and entry capabilities for flight management functions.'],1
+datum display,['Three multi-purpose control display units (CDU) provide data display and entry capabilities for flight management functions.'],1
+entry capability,['Three multi-purpose control display units (CDU) provide data display and entry capabilities for flight management functions.'],1
+flight management function,['Three multi-purpose control display units (CDU) provide data display and entry capabilities for flight management functions.'],1
+these unit,['These units are the primary interface with an integrated Airplane Information Management System (AIMS).'],1
+the primary interface,['These units are the primary interface with an integrated Airplane Information Management System (AIMS).'],1
+an integrate airplane information management system,['These units are the primary interface with an integrated Airplane Information Management System (AIMS).'],1
+the cdus,"['The CDUs have color displays, again in response to market preferences.']",1
+color display,"['The CDUs have color displays, again in response to market preferences.']",1
+market preference,"['The CDUs have color displays, again in response to market preferences.']",1
+color,['Adding color allows pilots to assimilate the information more quickly.'],1
+pilot,"['Adding color allows pilots to assimilate the information more quickly.', 'Pilots are to make sure that the aircraft is always operated within all design limitations.', 'For the crews, this means that the company can schedule pilots together that have never flown together before and still maintain a safe operation.', 'PAGE 22 Boeing 777-200ER Aircraft Operating Manual PILOT NOTES AND OBSERVATIONS While the 777 is one of the most technologically advanced commercial aircraft in the world, pilots should always remember that the 777 is still a very large aircraft.', 'For instance, pilots should not try a very short approach with very tight turns as if they were flying a 737 or other smaller aircraft.', 'However, to save on fuel consumption, pilots should always use the listed climb procedures unless instructed otherwise by air traffic control.', 'Pilots of the 777 should always monitor the trans-oceanic information centers and plan their flights accordingly.', 'Also, due to the international aspect of the 777, pilots in the program should keep international charts on board at all times and be aware of changes to these charts.']",8
+the information,"['Adding color allows pilots to assimilate the information more quickly.', 'The information in this manual has been gathered from Internet resources and from test flying the aircraft.']",2
+integrate airplane information management system,"['Integrated Airplane Information Management System (AIMS) provides flight and maintenance crews all pertinent information concerning the overall condition of the airplane, its maintenance requirements and its key operating functions, including flight, thrust and communications management.']",1
+flight and maintenance crew,"['Integrated Airplane Information Management System (AIMS) provides flight and maintenance crews all pertinent information concerning the overall condition of the airplane, its maintenance requirements and its key operating functions, including flight, thrust and communications management.']",1
+all pertinent information,"['Integrated Airplane Information Management System (AIMS) provides flight and maintenance crews all pertinent information concerning the overall condition of the airplane, its maintenance requirements and its key operating functions, including flight, thrust and communications management.']",1
+the overall condition,"['Integrated Airplane Information Management System (AIMS) provides flight and maintenance crews all pertinent information concerning the overall condition of the airplane, its maintenance requirements and its key operating functions, including flight, thrust and communications management.']",1
+its maintenance requirement,"['Integrated Airplane Information Management System (AIMS) provides flight and maintenance crews all pertinent information concerning the overall condition of the airplane, its maintenance requirements and its key operating functions, including flight, thrust and communications management.']",1
+its key operating function,"['Integrated Airplane Information Management System (AIMS) provides flight and maintenance crews all pertinent information concerning the overall condition of the airplane, its maintenance requirements and its key operating functions, including flight, thrust and communications management.']",1
+communication management,"['Integrated Airplane Information Management System (AIMS) provides flight and maintenance crews all pertinent information concerning the overall condition of the airplane, its maintenance requirements and its key operating functions, including flight, thrust and communications management.']",1
+wire,"['A ""fly-by-wire"" flight control saves weight and simplifies factory assembly compared to conventional mechanical systems relying on steel cables, and requires fewer spares and less maintenance in airline service.', 'It permits airplane systems and associated computers to communicate with one another through a common wire path (a twisted pair of wires) instead of through separate one-way wire connections.', 'This further simplifies assembly and saves weight, while increasing reliability through a reduction in the amount of wires and connectors.']",3
+weight,"['A ""fly-by-wire"" flight control saves weight and simplifies factory assembly compared to conventional mechanical systems relying on steel cables, and requires fewer spares and less maintenance in airline service.', 'This further simplifies assembly and saves weight, while increasing reliability through a reduction in the amount of wires and connectors.', 'Max Take Off Weight: (MTOW) 634,000 lbs (cid:131)']",3
+simplifie,"['A ""fly-by-wire"" flight control saves weight and simplifies factory assembly compared to conventional mechanical systems relying on steel cables, and requires fewer spares and less maintenance in airline service.']",1
+factory assembly,"['A ""fly-by-wire"" flight control saves weight and simplifies factory assembly compared to conventional mechanical systems relying on steel cables, and requires fewer spares and less maintenance in airline service.']",1
+conventional mechanical system,"['A ""fly-by-wire"" flight control saves weight and simplifies factory assembly compared to conventional mechanical systems relying on steel cables, and requires fewer spares and less maintenance in airline service.']",1
+steel cable,"['A ""fly-by-wire"" flight control saves weight and simplifies factory assembly compared to conventional mechanical systems relying on steel cables, and requires fewer spares and less maintenance in airline service.']",1
+few spare,"['A ""fly-by-wire"" flight control saves weight and simplifies factory assembly compared to conventional mechanical systems relying on steel cables, and requires fewer spares and less maintenance in airline service.']",1
+less maintenance,"['A ""fly-by-wire"" flight control saves weight and simplifies factory assembly compared to conventional mechanical systems relying on steel cables, and requires fewer spares and less maintenance in airline service.']",1
+airline service,"['A ""fly-by-wire"" flight control saves weight and simplifies factory assembly compared to conventional mechanical systems relying on steel cables, and requires fewer spares and less maintenance in airline service.']",1
+a boeing-patented two-way digital data bus,"['A Boeing-patented two-way digital data bus, ARINC 629, has been adopted as a new industry standard.']",1
+arinc,"['A Boeing-patented two-way digital data bus, ARINC 629, has been adopted as a new industry standard.']",1
+a new industry standard,"['A Boeing-patented two-way digital data bus, ARINC 629, has been adopted as a new industry standard.']",1
+airplane system,['It permits airplane systems and associated computers to communicate with one another through a common wire path (a twisted pair of wires) instead of through separate one-way wire connections.'],1
+associate computer,['It permits airplane systems and associated computers to communicate with one another through a common wire path (a twisted pair of wires) instead of through separate one-way wire connections.'],1
+a common wire path,['It permits airplane systems and associated computers to communicate with one another through a common wire path (a twisted pair of wires) instead of through separate one-way wire connections.'],1
+a twisted pair,['It permits airplane systems and associated computers to communicate with one another through a common wire path (a twisted pair of wires) instead of through separate one-way wire connections.'],1
+separate one-way wire connection,['It permits airplane systems and associated computers to communicate with one another through a common wire path (a twisted pair of wires) instead of through separate one-way wire connections.'],1
+a reduction,"['This further simplifies assembly and saves weight, while increasing reliability through a reduction in the amount of wires and connectors.']",1
+the amount,"['This further simplifies assembly and saves weight, while increasing reliability through a reduction in the amount of wires and connectors.']",1
+connector,"['This further simplifies assembly and saves weight, while increasing reliability through a reduction in the amount of wires and connectors.']",1
+these arinc,['There are 11 of these ARINC 629 pathways in the 777.'],1
+629 pathway,['There are 11 of these ARINC 629 pathways in the 777.'],1
+enhanced ground proximity warning system,['Enhanced Ground Proximity Warning System (EGPWS) is standard equipment.'],1
+egpws,['Enhanced Ground Proximity Warning System (EGPWS) is standard equipment.'],1
+standard equipment,['Enhanced Ground Proximity Warning System (EGPWS) is standard equipment.'],1
+the egpws display,"['The EGPWS displays potentially threatening terrain and gives an audible alert up to a minute in advance of possible terrain conflict, compared with 10 to 15 seconds for previous systems.']",1
+terrain,"['The EGPWS displays potentially threatening terrain and gives an audible alert up to a minute in advance of possible terrain conflict, compared with 10 to 15 seconds for previous systems.']",1
+an audible alert,"['The EGPWS displays potentially threatening terrain and gives an audible alert up to a minute in advance of possible terrain conflict, compared with 10 to 15 seconds for previous systems.']",1
+a minute,"['The EGPWS displays potentially threatening terrain and gives an audible alert up to a minute in advance of possible terrain conflict, compared with 10 to 15 seconds for previous systems.']",1
+advance,"['The EGPWS displays potentially threatening terrain and gives an audible alert up to a minute in advance of possible terrain conflict, compared with 10 to 15 seconds for previous systems.']",1
+possible terrain conflict,"['The EGPWS displays potentially threatening terrain and gives an audible alert up to a minute in advance of possible terrain conflict, compared with 10 to 15 seconds for previous systems.']",1
+10 to 15 second,"['The EGPWS displays potentially threatening terrain and gives an audible alert up to a minute in advance of possible terrain conflict, compared with 10 to 15 seconds for previous systems.']",1
+previous system,"['The EGPWS displays potentially threatening terrain and gives an audible alert up to a minute in advance of possible terrain conflict, compared with 10 to 15 seconds for previous systems.']",1
+a proprietary digital terrain map,"['It incorporates a proprietary digital terrain map, which it continuously compares to airplane position data from the navigation system.']",1
+airplane position datum,"['It incorporates a proprietary digital terrain map, which it continuously compares to airplane position data from the navigation system.']",1
+the navigation system,"['It incorporates a proprietary digital terrain map, which it continuously compares to airplane position data from the navigation system.']",1
+page 5 boee 777-200er aircraft operating manual,['PAGE 5 Boeing 777-200ER Aircraft Operating Manual'],1
+the 777-300 flight deck,"['The 777-300 flight deck includes a Ground Maneuver Camera System (GMCS), designed to assist the pilot in ground maneuvering the 777-300 with camera views of the nose gear and main gear areas.']",1
+a ground maneuver camera system,"['The 777-300 flight deck includes a Ground Maneuver Camera System (GMCS), designed to assist the pilot in ground maneuvering the 777-300 with camera views of the nose gear and main gear areas.']",1
+gmcs,"['The 777-300 flight deck includes a Ground Maneuver Camera System (GMCS), designed to assist the pilot in ground maneuvering the 777-300 with camera views of the nose gear and main gear areas.']",1
+the pilot,"['The 777-300 flight deck includes a Ground Maneuver Camera System (GMCS), designed to assist the pilot in ground maneuvering the 777-300 with camera views of the nose gear and main gear areas.', 'Using standard operating procedures (see below) allows the pilots to estimate fuel loads closely and for company to budget appropriately.', 'For Delta Virtual Airlines, these procedures are for the benefit of the pilots using this manual.', 'Descend at mach 0.84 until 320 KIAS, at which point the pilot should throttle down to 310 KIAS.', ""This will give the pilot more room to recover and with the 777's advanced braking capabilities, slowing after a hot landing is not as difficult as in other large aircraft such as the 767-400, 747-400 and 340-600.""]",5
+ground,"['The 777-300 flight deck includes a Ground Maneuver Camera System (GMCS), designed to assist the pilot in ground maneuvering the 777-300 with camera views of the nose gear and main gear areas.']",1
+camera view,"['The 777-300 flight deck includes a Ground Maneuver Camera System (GMCS), designed to assist the pilot in ground maneuvering the 777-300 with camera views of the nose gear and main gear areas.']",1
+the nose gear,"['The 777-300 flight deck includes a Ground Maneuver Camera System (GMCS), designed to assist the pilot in ground maneuvering the 777-300 with camera views of the nose gear and main gear areas.']",1
+main gear area,"['The 777-300 flight deck includes a Ground Maneuver Camera System (GMCS), designed to assist the pilot in ground maneuvering the 777-300 with camera views of the nose gear and main gear areas.']",1
+the image,['The images are displayed at the Multi-Functional Display positions in the flight deck in a three-way split format.'],1
+the multi-functional display position,['The images are displayed at the Multi-Functional Display positions in the flight deck in a three-way split format.'],1
+the flight deck,['The images are displayed at the Multi-Functional Display positions in the flight deck in a three-way split format.'],1
+a three-way split format,['The images are displayed at the Multi-Functional Display positions in the flight deck in a three-way split format.'],1
+page,"['PAGE 6 Boeing 777-200ER Aircraft Operating Manual AIRCRAFT SPECIFICATIONS AIRCRAFT DIMENSIONS (cid:131)', 'Korean o Pratt & Whitney PW4090, max SLS thrust: PAGE 7 Boeing 777-200ER Aircraft Operating Manual FIELD LENGTHS (cid:131)', 'By flying using PAGE 13 Boeing 777-200ER Aircraft Operating Manual these procedures pilots will be able to make better use of the manual and also operate the aircraft in a similar fashion company wide.', 'PAGE 14 Boeing 777-200ER Aircraft Operating Manual (cid:131)', 'PAGE 15 Boeing 777-200ER Aircraft Operating Manual (cid:131) Execute ""', 'PAGE 16 Boeing 777-200ER Aircraft Operating Manual SECURING THE AIRCRAFT (cid:131)', 'PAGE 17 Boeing 777-200ER Aircraft Operating Manual NORMAL CHECKLISTS RECEIVING AIRCRAFT (cid:131) Altimeters & Flt.', 'Logbook / FOB / ACARS COMPLETED PAGE 19 Boeing 777-200ER Aircraft Operating Manual EMERGENCY PROCEDURES MISSED APPROACH (cid:131)', 'PAGE 24 Boeing 777-200ER Aircraft Operating Manual LEGAL STUFF (cid:131)', 'PAGE 25']",10
+777-200er aircraft operate manual aircraft,['PAGE 6 Boeing 777-200ER Aircraft Operating Manual AIRCRAFT SPECIFICATIONS AIRCRAFT DIMENSIONS (cid:131)'],1
+aircraft dimension,['PAGE 6 Boeing 777-200ER Aircraft Operating Manual AIRCRAFT SPECIFICATIONS AIRCRAFT DIMENSIONS (cid:131)'],1
+cid:131,"['PAGE 6 Boeing 777-200ER Aircraft Operating Manual AIRCRAFT SPECIFICATIONS AIRCRAFT DIMENSIONS (cid:131)', 'Length: 242 ft 4 in (cid:131)', 'Cabin Width: 19 ft 3 in (cid:131)', 'Height: 60 ft 8 in (cid:131)', 'Wing Span: 199 ft 11 in (cid:131)', 'Wing Area: 4,605 ft2 DESIGN WEIGHTS (cid:131)', 'Fuel Capacity: 297,789 lbs (cid:131)', 'Passengers (Delta) o BusinessElite\\xc2\\xae: 52 o Coach: 225 (cid:131)', 'Forward Cargo Capacity: 67,500 lbs (cid:131)', 'Aft Cargo Capacity: 49,000 lbs (cid:131)', 'Cargo total volume: 5,656 ft3 POWER PLANTS (cid:131)', 'Landing: PAGE 8 Boeing 777-200ER Aircraft Operating Manual RANGE SPEEDS (cid:131) V MO PAGE 9 Boeing 777-200ER Aircraft Operating Manual (cid:131) V REF (cid:131) V / V / V 1 R 2 ALTITUDES (cid:131)', 'Standard Cruise Altitudes: FL300 - FL410 (cid:131)', 'Amount 12,000 lbs (cid:131)', '(cid:131)', 'PAGE 11 Boeing 777-200ER Aircraft Operating Manual (cid:131)', 'Obtain clearance from Delivery (cid:131) Execute ""', 'GATE DEPARTURE (cid:131)', 'TAKEOFF (cid:131)', 'PAGE 14 Boeing 777-200ER Aircraft Operating Manual (cid:131)', 'CLIMB (cid:131)', 'o Set seatbelt sign to auto, leave no-smoking on (cid:131)', 'CRUISE (cid:131)', 'DESCENT (cid:131)', 'PAGE 15 Boeing 777-200ER Aircraft Operating Manual (cid:131) Execute ""', '(cid:131) Execute ""Approach"" Checklist.', 'PAGE 17 Boeing 777-200ER Aircraft Operating Manual NORMAL CHECKLISTS RECEIVING AIRCRAFT (cid:131) Altimeters & Flt.', 'Parking Brake SET (cid:131)', 'Preflight Briefing COMPLETE BEFORE START (cid:131)', 'Seat Belt Sign ON (cid:131)', 'Beacon ON (cid:131)', 'Trim ___ UNITS, ZERO, ZERO (cid:131)', 'Flaps SET___ BEFORE TAKEOFF (cid:131)', 'Departure Briefing COMPLETE (cid:131) Flaps ___ (cid:131)', 'Transponder TA / RA AFTER TAKEOFF (cid:131)', 'Gear UP (cid:131) Flaps UP PAGE 18 Boeing 777-200ER Aircraft Operating Manual IN RANGE (cid:131)', 'Transponder STANDBY PARKING (cid:131)', 'Flight Directors OFF (cid:131)', 'SINGLE ENGINE DEPARTURE (cid:131)', 'ENGINE FIRE (cid:131)', 'PAGE 20 Boeing 777-200ER Aircraft Operating Manual ENGINE FAILURE SHUTDOWN MID FLIGHT (cid:131)', 'TOTAL POWER LOSS (cid:131)', 'Open Ocean (cid:131) Use full Flaps.', 'PAGE 24 Boeing 777-200ER Aircraft Operating Manual LEGAL STUFF (cid:131)', 'The real Delta Air Lines web site is located at http://www.delta.com/. (cid:131)']",129
+length,['Length: 242 ft 4 in (cid:131)'],1
+242 ft,['Length: 242 ft 4 in (cid:131)'],1
+cabin width,['Cabin Width: 19 ft 3 in (cid:131)'],1
+19 ft,['Cabin Width: 19 ft 3 in (cid:131)'],1
+height,['Height: 60 ft 8 in (cid:131)'],1
+60 ft,['Height: 60 ft 8 in (cid:131)'],1
+wing span,['Wing Span: 199 ft 11 in (cid:131)'],1
+199 ft,['Wing Span: 199 ft 11 in (cid:131)'],1
+wing area,"['Wing Area: 4,605 ft2 DESIGN WEIGHTS (cid:131)']",1
+"4,605 ft2 design weight","['Wing Area: 4,605 ft2 DESIGN WEIGHTS (cid:131)']",1
+max,"['Max Take Off Weight: (MTOW) 634,000 lbs (cid:131)', '(cid:131) Call for Max Thrust and flaps 20\\xc2\\xb0.']",2
+mtow,"['Max Take Off Weight: (MTOW) 634,000 lbs (cid:131)']",1
+"634,000 lbs","['Max Take Off Weight: (MTOW) 634,000 lbs (cid:131)']",1
+max landing weight,"['Max Landing Weight: (MLW) 450,000 lbs (cid:131)']",1
+"mlw ) 450,000 lbs","['Max Landing Weight: (MLW) 450,000 lbs (cid:131)']",1
+max zero fuel weight,"['Max Zero Fuel Weight: (MZFW) 429,000 lbs (cid:131)']",1
+mzfw,"['Max Zero Fuel Weight: (MZFW) 429,000 lbs (cid:131)']",1
+"429,000 lbs","['Max Zero Fuel Weight: (MZFW) 429,000 lbs (cid:131)']",1
+fuel capacity,"['Fuel Capacity: 297,789 lbs (cid:131)']",1
+"297,789 lbs","['Fuel Capacity: 297,789 lbs (cid:131)']",1
+empty weight,['Operating Empty Weight: (OEW)'],1
+oew,['Operating Empty Weight: (OEW)'],1
+"299,000 lbs capacity","['299,000 lbs CAPACITY']",1
+passenger,['Passengers (Delta) o BusinessElite\\xc2\\xae: 52 o Coach: 225 (cid:131)'],1
+businesselite\xc2\xae,['Passengers (Delta) o BusinessElite\\xc2\\xae: 52 o Coach: 225 (cid:131)'],1
+52 o coach,['Passengers (Delta) o BusinessElite\\xc2\\xae: 52 o Coach: 225 (cid:131)'],1
+forward cargo capacity,"['Forward Cargo Capacity: 67,500 lbs (cid:131)']",1
+"67,500 lbs","['Forward Cargo Capacity: 67,500 lbs (cid:131)']",1
+cargo capacity,"['Aft Cargo Capacity: 49,000 lbs (cid:131)']",1
+"49,000 lbs","['Aft Cargo Capacity: 49,000 lbs (cid:131)']",1
+cargo total volume,"['Cargo total volume: 5,656 ft3 POWER PLANTS (cid:131)']",1
+"5,656 ft3 power plant","['Cargo total volume: 5,656 ft3 POWER PLANTS (cid:131)']",1
+max sls,"['Rolls Royce Trent 892, max SLS thrust: 92,000 lbs each (cid:131)', 'Air France, Continental o General Electric GE90-94B, max SLS thrust: 93,700 lbs each (cid:131)', 'Korean o Pratt & Whitney PW4090, max SLS thrust: PAGE 7 Boeing 777-200ER Aircraft Operating Manual FIELD LENGTHS (cid:131)']",3
+"92,000 lbs","['Rolls Royce Trent 892, max SLS thrust: 92,000 lbs each (cid:131)']",1
+korean o pratt,"['Korean o Pratt & Whitney PW4090, max SLS thrust: PAGE 7 Boeing 777-200ER Aircraft Operating Manual FIELD LENGTHS (cid:131)']",1
+whitney pw4090,"['Korean o Pratt & Whitney PW4090, max SLS thrust: PAGE 7 Boeing 777-200ER Aircraft Operating Manual FIELD LENGTHS (cid:131)']",1
+7 boeing 777-200er aircraft operate manual field length,"['Korean o Pratt & Whitney PW4090, max SLS thrust: PAGE 7 Boeing 777-200ER Aircraft Operating Manual FIELD LENGTHS (cid:131)']",1
+boeing 777-200er aircraft operate manual range speed,['Landing: PAGE 8 Boeing 777-200ER Aircraft Operating Manual RANGE SPEEDS (cid:131) V MO PAGE 9 Boeing 777-200ER Aircraft Operating Manual (cid:131) V REF (cid:131) V / V / V 1 R 2 ALTITUDES (cid:131)'],1
+mo page 9 boeing 777-200er aircraft operating manual,['Landing: PAGE 8 Boeing 777-200ER Aircraft Operating Manual RANGE SPEEDS (cid:131) V MO PAGE 9 Boeing 777-200ER Aircraft Operating Manual (cid:131) V REF (cid:131) V / V / V 1 R 2 ALTITUDES (cid:131)'],1
+ref,['Landing: PAGE 8 Boeing 777-200ER Aircraft Operating Manual RANGE SPEEDS (cid:131) V MO PAGE 9 Boeing 777-200ER Aircraft Operating Manual (cid:131) V REF (cid:131) V / V / V 1 R 2 ALTITUDES (cid:131)'],1
+v/v/v 1 r 2 altitude,['Landing: PAGE 8 Boeing 777-200ER Aircraft Operating Manual RANGE SPEEDS (cid:131) V MO PAGE 9 Boeing 777-200ER Aircraft Operating Manual (cid:131) V REF (cid:131) V / V / V 1 R 2 ALTITUDES (cid:131)'],1
+standard cruise altitude,['Standard Cruise Altitudes: FL300 - FL410 (cid:131)'],1
+fl300-fl410,['Standard Cruise Altitudes: FL300 - FL410 (cid:131)'],1
+operational service ceiling,"['Operational Service Ceiling: 43,100 ft PAGE 10 Boeing 777-200ER Aircraft Operating Manual FUEL CONSUMPTION']",1
+"43,100 ft page 10 boeing","['Operational Service Ceiling: 43,100 ft PAGE 10 Boeing 777-200ER Aircraft Operating Manual FUEL CONSUMPTION']",1
+manual fuel consumption,"['Operational Service Ceiling: 43,100 ft PAGE 10 Boeing 777-200ER Aircraft Operating Manual FUEL CONSUMPTION']",1
+the boeing,"['The Boeing 777-200 has three fuel tanks - left main, right main and center main.']",1
+three fuel tank,"['The Boeing 777-200 has three fuel tanks - left main, right main and center main.']",1
+both side tank,"['Both side tanks have a capacity of 61,395 lbs of fuel (9,300 gallons), while the center fuel tank has a capacity of 81,859 lbs of fuel (12,400 gallons) for a total of approximately 204,649 lbs or 31,000 gallons.']",1
+a capacity,"['Both side tanks have a capacity of 61,395 lbs of fuel (9,300 gallons), while the center fuel tank has a capacity of 81,859 lbs of fuel (12,400 gallons) for a total of approximately 204,649 lbs or 31,000 gallons.']",2
+"61,395 lbs","['Both side tanks have a capacity of 61,395 lbs of fuel (9,300 gallons), while the center fuel tank has a capacity of 81,859 lbs of fuel (12,400 gallons) for a total of approximately 204,649 lbs or 31,000 gallons.']",1
+fuel,"['Both side tanks have a capacity of 61,395 lbs of fuel (9,300 gallons), while the center fuel tank has a capacity of 81,859 lbs of fuel (12,400 gallons) for a total of approximately 204,649 lbs or 31,000 gallons.', 'With a full load of fuel, the 777-200ER is capable of flying approximately 7,730 nautical miles.', 'Calculation of this formula gives you the correct amount of fuel for your trip.', 'To load fuel into your aircraft, select Aircraft, then Fuel and place the correct fuel amounts in the correct tanks.', 'Captains ordering fuel for Delta Virtual Airlines flights should remember that more fuel equates into more drag, requiring more power.', 'An unnecessary overabundance of fuel will only cost the company money.', 'Fuel should be kept as close to the trip fuel required as possible.', 'Cabin signs to on, turn on all hydraulics and turn on fuel pumps in all tanks with fuel.', 'If fuel in center check, check cross-feed configuration for engine start and take-off.', ""(cid:131) Descent before 100nm may increase fuel, however T/D is at pilot's discretion."", 'Fuel Pumps OFF (cid:131)']",12
+"9,300 gallon","['Both side tanks have a capacity of 61,395 lbs of fuel (9,300 gallons), while the center fuel tank has a capacity of 81,859 lbs of fuel (12,400 gallons) for a total of approximately 204,649 lbs or 31,000 gallons.']",1
+the center fuel tank,"['Both side tanks have a capacity of 61,395 lbs of fuel (9,300 gallons), while the center fuel tank has a capacity of 81,859 lbs of fuel (12,400 gallons) for a total of approximately 204,649 lbs or 31,000 gallons.']",1
+"81,859 lbs","['Both side tanks have a capacity of 61,395 lbs of fuel (9,300 gallons), while the center fuel tank has a capacity of 81,859 lbs of fuel (12,400 gallons) for a total of approximately 204,649 lbs or 31,000 gallons.']",1
+"12,400 gallon","['Both side tanks have a capacity of 61,395 lbs of fuel (9,300 gallons), while the center fuel tank has a capacity of 81,859 lbs of fuel (12,400 gallons) for a total of approximately 204,649 lbs or 31,000 gallons.']",1
+"approximately 204,649 lb","['Both side tanks have a capacity of 61,395 lbs of fuel (9,300 gallons), while the center fuel tank has a capacity of 81,859 lbs of fuel (12,400 gallons) for a total of approximately 204,649 lbs or 31,000 gallons.']",1
+"31,000 gallon","['Both side tanks have a capacity of 61,395 lbs of fuel (9,300 gallons), while the center fuel tank has a capacity of 81,859 lbs of fuel (12,400 gallons) for a total of approximately 204,649 lbs or 31,000 gallons.']",1
+a full load,"['With a full load of fuel, the 777-200ER is capable of flying approximately 7,730 nautical miles.']",1
+the 777-200er,"['With a full load of fuel, the 777-200ER is capable of flying approximately 7,730 nautical miles.']",1
+"approximately 7,730 nautical mile","['With a full load of fuel, the 777-200ER is capable of flying approximately 7,730 nautical miles.']",1
+fuel burn rate factor,"['777-200ER Range 7,730 nm Fuel Burn Rate Factor 22.0 lbs/nm Fuel Base']",1
+22.0 lb,"['777-200ER Range 7,730 nm Fuel Burn Rate Factor 22.0 lbs/nm Fuel Base']",1
+/nm,"['777-200ER Range 7,730 nm Fuel Burn Rate Factor 22.0 lbs/nm Fuel Base']",1
+fuel base,"['777-200ER Range 7,730 nm Fuel Burn Rate Factor 22.0 lbs/nm Fuel Base']",1
+amount,"['Amount 12,000 lbs (cid:131)']",1
+"12,000 lbs","['Amount 12,000 lbs (cid:131)']",1
+fuel loading formula,['Fuel Loading Formula: (Fuel Base Amount + (Distance * Fuel Burn Factor))'],1
+fuel base amount,['Fuel Loading Formula: (Fuel Base Amount + (Distance * Fuel Burn Factor))'],1
+distance * fuel burn factor,['Fuel Loading Formula: (Fuel Base Amount + (Distance * Fuel Burn Factor))'],1
+calculation,['Calculation of this formula gives you the correct amount of fuel for your trip.'],1
+this formula,['Calculation of this formula gives you the correct amount of fuel for your trip.'],1
+you,"['Calculation of this formula gives you the correct amount of fuel for your trip.', 'Any trip estimations that you see in this manual are for calm winds and standard temperatures, any deviation from standard, winds or temperature will result in different actual performance for your aircraft.', 'The FAA states that you must have enough fuel to reach your destination, make a missed approach, reach your alternate and hold for 30 minutes.', ""Delta's standard is slightly higher, but if you are expecting bad weather, pack more fuel!"", 'When flying over long bodies of water, remember that in the event of pressurization problem or an engine failure that requires descent to 14,000 feet MSL for passenger comfort, the fuel burn for your aircraft will increase significantly and may leave you short of your initial destination.', 'These aircraft models and panels are available from the Delta Virtual Airlines Fleet Library, as well as the popular flight simulation web sites http://www.flightsim.com and http://www.avsim.com/. If you find a model or panel that you believe is superior to the ones provided in the aircraft installer, please contact us and send us a copy.', 'Call the Tower and inform you are aborting Take-off.', ""Stay on or above the glide slope at all times during approach, once you get below it, you can't get back up it."", 'If you need assistance finding a particular chart or have questions regarding interpretation of the charts, please contact the 777 Chief Pilot.']",11
+the correct amount,['Calculation of this formula gives you the correct amount of fuel for your trip.'],1
+your trip,['Calculation of this formula gives you the correct amount of fuel for your trip.'],1
+an example,"['As an example, for a 2000 nautical mile flight leg using the 777-200, the formula would be (12,000 lbs + (2000NM * 22.0)) =']",1
+a 2000 nautical mile flight leg,"['As an example, for a 2000 nautical mile flight leg using the 777-200, the formula would be (12,000 lbs + (2000NM * 22.0)) =']",1
+the formula,"['As an example, for a 2000 nautical mile flight leg using the 777-200, the formula would be (12,000 lbs + (2000NM * 22.0)) =']",1
+"12,000 lb","['As an example, for a 2000 nautical mile flight leg using the 777-200, the formula would be (12,000 lbs + (2000NM * 22.0)) =']",1
+"56,000 lb","['56,000 lbs.']",1
+account,"['Please note that this does not take into account the 45 minute reserve required (approximately 14,000 lbs.)']",1
+the 45 minute reserve,"['Please note that this does not take into account the 45 minute reserve required (approximately 14,000 lbs.)']",1
+"approximately 14,000 lb","['Please note that this does not take into account the 45 minute reserve required (approximately 14,000 lbs.)']",1
+your aircraft,"['To load fuel into your aircraft, select Aircraft, then Fuel and place the correct fuel amounts in the correct tanks.', 'Any trip estimations that you see in this manual are for calm winds and standard temperatures, any deviation from standard, winds or temperature will result in different actual performance for your aircraft.', 'When flying over long bodies of water, remember that in the event of pressurization problem or an engine failure that requires descent to 14,000 feet MSL for passenger comfort, the fuel burn for your aircraft will increase significantly and may leave you short of your initial destination.']",3
+select aircraft,"['To load fuel into your aircraft, select Aircraft, then Fuel and place the correct fuel amounts in the correct tanks.']",1
+the correct tank,"['To load fuel into your aircraft, select Aircraft, then Fuel and place the correct fuel amounts in the correct tanks.']",1
+standard operating procedure,['Using standard operating procedures (see below) allows the pilots to estimate fuel loads closely and for company to budget appropriately.'],1
+fuel load,['Using standard operating procedures (see below) allows the pilots to estimate fuel loads closely and for company to budget appropriately.'],1
+company,['Using standard operating procedures (see below) allows the pilots to estimate fuel loads closely and for company to budget appropriately.'],1
+first hour's fuel,"[""First hour's fuel is calculated with a 250 KIAS climb below 10,000 feet MSL, cruise climb above 10,000 feet MSL at 2,000 feet/min to FL240, then at 1,500 feet/min to FL270, then 500-1000 feet/min to cruise altitude.""]",1
+a 250 kias climb,"[""First hour's fuel is calculated with a 250 KIAS climb below 10,000 feet MSL, cruise climb above 10,000 feet MSL at 2,000 feet/min to FL240, then at 1,500 feet/min to FL270, then 500-1000 feet/min to cruise altitude.""]",1
+"10,000 foot msl","[""First hour's fuel is calculated with a 250 KIAS climb below 10,000 feet MSL, cruise climb above 10,000 feet MSL at 2,000 feet/min to FL240, then at 1,500 feet/min to FL270, then 500-1000 feet/min to cruise altitude."", 'Initial rate of climb: 2000 - 4000 fpm, depending on GW and CLB thrust, at 250 KIAS to 10,000 feet MSL.', 'Landing lights on below 10,000 feet MSL.']",3
+cruise climb,"[""First hour's fuel is calculated with a 250 KIAS climb below 10,000 feet MSL, cruise climb above 10,000 feet MSL at 2,000 feet/min to FL240, then at 1,500 feet/min to FL270, then 500-1000 feet/min to cruise altitude.""]",1
+"10,000 foot","[""First hour's fuel is calculated with a 250 KIAS climb below 10,000 feet MSL, cruise climb above 10,000 feet MSL at 2,000 feet/min to FL240, then at 1,500 feet/min to FL270, then 500-1000 feet/min to cruise altitude.""]",1
+msl,"[""First hour's fuel is calculated with a 250 KIAS climb below 10,000 feet MSL, cruise climb above 10,000 feet MSL at 2,000 feet/min to FL240, then at 1,500 feet/min to FL270, then 500-1000 feet/min to cruise altitude."", 'When flying over long bodies of water, remember that in the event of pressurization problem or an engine failure that requires descent to 14,000 feet MSL for passenger comfort, the fuel burn for your aircraft will increase significantly and may leave you short of your initial destination.', 'Throttle down to 250 KIAS below 15,000 feet MSL, 240 KIAS below 12,000 feet MSL.']",3
+"2,000 foot/min","[""First hour's fuel is calculated with a 250 KIAS climb below 10,000 feet MSL, cruise climb above 10,000 feet MSL at 2,000 feet/min to FL240, then at 1,500 feet/min to FL270, then 500-1000 feet/min to cruise altitude.""]",1
+fl240,"[""First hour's fuel is calculated with a 250 KIAS climb below 10,000 feet MSL, cruise climb above 10,000 feet MSL at 2,000 feet/min to FL240, then at 1,500 feet/min to FL270, then 500-1000 feet/min to cruise altitude.""]",1
+"1,500 foot/min","[""First hour's fuel is calculated with a 250 KIAS climb below 10,000 feet MSL, cruise climb above 10,000 feet MSL at 2,000 feet/min to FL240, then at 1,500 feet/min to FL270, then 500-1000 feet/min to cruise altitude.""]",1
+fl270,"[""First hour's fuel is calculated with a 250 KIAS climb below 10,000 feet MSL, cruise climb above 10,000 feet MSL at 2,000 feet/min to FL240, then at 1,500 feet/min to FL270, then 500-1000 feet/min to cruise altitude.""]",1
+", then 500-1000 foot/min","[""First hour's fuel is calculated with a 250 KIAS climb below 10,000 feet MSL, cruise climb above 10,000 feet MSL at 2,000 feet/min to FL240, then at 1,500 feet/min to FL270, then 500-1000 feet/min to cruise altitude.""]",1
+altitude,"[""First hour's fuel is calculated with a 250 KIAS climb below 10,000 feet MSL, cruise climb above 10,000 feet MSL at 2,000 feet/min to FL240, then at 1,500 feet/min to FL270, then 500-1000 feet/min to cruise altitude."", 'Reduce altitude to one where acceptable power setting can be established.']",2
+captain,"['Captains ordering fuel for Delta Virtual Airlines flights should remember that more fuel equates into more drag, requiring more power.']",1
+delta virtual airline flight,"['Captains ordering fuel for Delta Virtual Airlines flights should remember that more fuel equates into more drag, requiring more power.']",1
+more fuel,"['Captains ordering fuel for Delta Virtual Airlines flights should remember that more fuel equates into more drag, requiring more power.', ""Delta's standard is slightly higher, but if you are expecting bad weather, pack more fuel!""]",2
+more drag,"['Captains ordering fuel for Delta Virtual Airlines flights should remember that more fuel equates into more drag, requiring more power.']",1
+more power,"['Captains ordering fuel for Delta Virtual Airlines flights should remember that more fuel equates into more drag, requiring more power.']",1
+an unnecessary overabundance,['An unnecessary overabundance of fuel will only cost the company money.'],1
+the company money,['An unnecessary overabundance of fuel will only cost the company money.'],1
+the trip fuel,['Fuel should be kept as close to the trip fuel required as possible.'],1
+the pilot's responsibility,"[""However, with that said it is always the pilot's responsibility to ensure that there is enough legal fuel for the flight."", ""While the 777 can handle severe conditions, it is the pilot's responsibility to plan effectively and safely.""]",2
+enough legal fuel,"[""However, with that said it is always the pilot's responsibility to ensure that there is enough legal fuel for the flight.""]",1
+the flight,"[""However, with that said it is always the pilot's responsibility to ensure that there is enough legal fuel for the flight.""]",1
+any incident,['Any incident that was the result of miscalculating the fuel load will always be the fault and sole responsibility of that flights captain and crew.'],1
+the result,['Any incident that was the result of miscalculating the fuel load will always be the fault and sole responsibility of that flights captain and crew.'],1
+miscalculating,['Any incident that was the result of miscalculating the fuel load will always be the fault and sole responsibility of that flights captain and crew.'],1
+the fuel load,['Any incident that was the result of miscalculating the fuel load will always be the fault and sole responsibility of that flights captain and crew.'],1
+the fault,['Any incident that was the result of miscalculating the fuel load will always be the fault and sole responsibility of that flights captain and crew.'],1
+sole responsibility,['Any incident that was the result of miscalculating the fuel load will always be the fault and sole responsibility of that flights captain and crew.'],1
+that flight captain,['Any incident that was the result of miscalculating the fuel load will always be the fault and sole responsibility of that flights captain and crew.'],1
+crew,['Any incident that was the result of miscalculating the fuel load will always be the fault and sole responsibility of that flights captain and crew.'],1
+doubt,"['When in doubt, take more.']",1
+any trip estimation,"['Any trip estimations that you see in this manual are for calm winds and standard temperatures, any deviation from standard, winds or temperature will result in different actual performance for your aircraft.']",1
+this manual,"['Any trip estimations that you see in this manual are for calm winds and standard temperatures, any deviation from standard, winds or temperature will result in different actual performance for your aircraft.', 'For Delta Virtual Airlines, these procedures are for the benefit of the pilots using this manual.', 'This manual is designed for use by Delta Virtual Airlines as reference material for flight simulator pilots operating the Boeing 777-200ER aircraft.', 'The information in this manual has been gathered from Internet resources and from test flying the aircraft.', 'This manual makes no claim to represent Boeing, Rolls Royce, General Electric, Pratt & Whitney, Microsoft, Delta Air Lines, Melvin Rafi or any other party involved.', ""This manual is freeware and is not to be included with any 'for sale' product.""]",6
+calm wind,"['Any trip estimations that you see in this manual are for calm winds and standard temperatures, any deviation from standard, winds or temperature will result in different actual performance for your aircraft.']",1
+standard temperature,"['Any trip estimations that you see in this manual are for calm winds and standard temperatures, any deviation from standard, winds or temperature will result in different actual performance for your aircraft.']",1
+any deviation,"['Any trip estimations that you see in this manual are for calm winds and standard temperatures, any deviation from standard, winds or temperature will result in different actual performance for your aircraft.']",1
+standard,"['Any trip estimations that you see in this manual are for calm winds and standard temperatures, any deviation from standard, winds or temperature will result in different actual performance for your aircraft.']",1
+wind,"['Any trip estimations that you see in this manual are for calm winds and standard temperatures, any deviation from standard, winds or temperature will result in different actual performance for your aircraft.', 'If air traffic control gives reports of wind shear on final approach, stay slightly above the listed altitude when crossing decision height to leave enough room for expected wind shear.']",2
+temperature,"['Any trip estimations that you see in this manual are for calm winds and standard temperatures, any deviation from standard, winds or temperature will result in different actual performance for your aircraft.']",1
+different actual performance,"['Any trip estimations that you see in this manual are for calm winds and standard temperatures, any deviation from standard, winds or temperature will result in different actual performance for your aircraft.']",1
+page 11 boee 777-200er aircraft operating manual,['PAGE 11 Boeing 777-200ER Aircraft Operating Manual (cid:131)'],1
+delta virtual airline aircraft,"['Delta Virtual Airlines aircraft should always carry a minimum fuel load for the trip to destination, alternate and a 60 min reserve in cruise at low altitude.']",1
+a minimum fuel load,"['Delta Virtual Airlines aircraft should always carry a minimum fuel load for the trip to destination, alternate and a 60 min reserve in cruise at low altitude.']",1
+the trip,"['Delta Virtual Airlines aircraft should always carry a minimum fuel load for the trip to destination, alternate and a 60 min reserve in cruise at low altitude.']",1
+destination,"['Delta Virtual Airlines aircraft should always carry a minimum fuel load for the trip to destination, alternate and a 60 min reserve in cruise at low altitude.', 'Review STAR / ILS charts and weather conditions at destination.', 'If possible continue to destination otherwise attempt to return to origin, inform ATC of intentions and situation.']",3
+low altitude,"['Delta Virtual Airlines aircraft should always carry a minimum fuel load for the trip to destination, alternate and a 60 min reserve in cruise at low altitude.']",1
+all design limitation,['Pilots are to make sure that the aircraft is always operated within all design limitations.'],1
+the faa,"['The FAA states that you must have enough fuel to reach your destination, make a missed approach, reach your alternate and hold for 30 minutes.']",1
+enough fuel,"['The FAA states that you must have enough fuel to reach your destination, make a missed approach, reach your alternate and hold for 30 minutes.']",1
+your destination,"['The FAA states that you must have enough fuel to reach your destination, make a missed approach, reach your alternate and hold for 30 minutes.', 'Set altimeter for your destination at FL180 or local transition level.']",2
+a miss approach,"['The FAA states that you must have enough fuel to reach your destination, make a missed approach, reach your alternate and hold for 30 minutes.']",1
+30 minute,"['The FAA states that you must have enough fuel to reach your destination, make a missed approach, reach your alternate and hold for 30 minutes.']",1
+delta's standard,"[""Delta's standard is slightly higher, but if you are expecting bad weather, pack more fuel!""]",1
+bad weather,"[""Delta's standard is slightly higher, but if you are expecting bad weather, pack more fuel!"", 'The advanced systems of the 777 make navigating through bad weather easier than in other commercial aircraft.']",2
+long body,"['When flying over long bodies of water, remember that in the event of pressurization problem or an engine failure that requires descent to 14,000 feet MSL for passenger comfort, the fuel burn for your aircraft will increase significantly and may leave you short of your initial destination.']",1
+water,"['When flying over long bodies of water, remember that in the event of pressurization problem or an engine failure that requires descent to 14,000 feet MSL for passenger comfort, the fuel burn for your aircraft will increase significantly and may leave you short of your initial destination.']",1
+the event,"['When flying over long bodies of water, remember that in the event of pressurization problem or an engine failure that requires descent to 14,000 feet MSL for passenger comfort, the fuel burn for your aircraft will increase significantly and may leave you short of your initial destination.']",1
+pressurization problem,"['When flying over long bodies of water, remember that in the event of pressurization problem or an engine failure that requires descent to 14,000 feet MSL for passenger comfort, the fuel burn for your aircraft will increase significantly and may leave you short of your initial destination.']",1
+an engine failure,"['When flying over long bodies of water, remember that in the event of pressurization problem or an engine failure that requires descent to 14,000 feet MSL for passenger comfort, the fuel burn for your aircraft will increase significantly and may leave you short of your initial destination.']",1
+"14,000 foot","['When flying over long bodies of water, remember that in the event of pressurization problem or an engine failure that requires descent to 14,000 feet MSL for passenger comfort, the fuel burn for your aircraft will increase significantly and may leave you short of your initial destination.']",1
+passenger comfort,"['When flying over long bodies of water, remember that in the event of pressurization problem or an engine failure that requires descent to 14,000 feet MSL for passenger comfort, the fuel burn for your aircraft will increase significantly and may leave you short of your initial destination.']",1
+the fuel,"['When flying over long bodies of water, remember that in the event of pressurization problem or an engine failure that requires descent to 14,000 feet MSL for passenger comfort, the fuel burn for your aircraft will increase significantly and may leave you short of your initial destination.']",1
+your initial destination,"['When flying over long bodies of water, remember that in the event of pressurization problem or an engine failure that requires descent to 14,000 feet MSL for passenger comfort, the fuel burn for your aircraft will increase significantly and may leave you short of your initial destination.']",1
+plan,['Plan accordingly!'],1
+32-bit window aircraft fleet installer utility,"['PAGE 12 Boeing 777-200ER Aircraft Operating Manual RECOMMENDED EQUIPMENT Delta Virtual Airlines provides 32-bit Windows aircraft fleet installer utilities for its aircraft, as part of its Fleet Library.']",1
+its aircraft,"['PAGE 12 Boeing 777-200ER Aircraft Operating Manual RECOMMENDED EQUIPMENT Delta Virtual Airlines provides 32-bit Windows aircraft fleet installer utilities for its aircraft, as part of its Fleet Library.']",1
+part,"['PAGE 12 Boeing 777-200ER Aircraft Operating Manual RECOMMENDED EQUIPMENT Delta Virtual Airlines provides 32-bit Windows aircraft fleet installer utilities for its aircraft, as part of its Fleet Library.']",1
+its fleet library,"['PAGE 12 Boeing 777-200ER Aircraft Operating Manual RECOMMENDED EQUIPMENT Delta Virtual Airlines provides 32-bit Windows aircraft fleet installer utilities for its aircraft, as part of its Fleet Library.']",1
+the boee 777 fleet installer,"['The Boeing 777 fleet installer contains no fewer than ten aircraft - MelJet Delta Air Lines B777-200ER models in the three Delta liveries, as well as examples in Air France and Korean Air Lines colors.']",1
+no few than ten aircraft-meljet delta air line b777-200er model,"['The Boeing 777 fleet installer contains no fewer than ten aircraft - MelJet Delta Air Lines B777-200ER models in the three Delta liveries, as well as examples in Air France and Korean Air Lines colors.']",1
+the three delta livery,"['The Boeing 777 fleet installer contains no fewer than ten aircraft - MelJet Delta Air Lines B777-200ER models in the three Delta liveries, as well as examples in Air France and Korean Air Lines colors.']",1
+example,"['The Boeing 777 fleet installer contains no fewer than ten aircraft - MelJet Delta Air Lines B777-200ER models in the three Delta liveries, as well as examples in Air France and Korean Air Lines colors.']",1
+korean air line color,"['The Boeing 777 fleet installer contains no fewer than ten aircraft - MelJet Delta Air Lines B777-200ER models in the three Delta liveries, as well as examples in Air France and Korean Air Lines colors.']",1
+two special paint scheme,"[""Two special paint schemes, the Delta 'Soaring Spirit' and the Korean World Cup 2002, are also included.""]",1
+the delta ' soar spirit,"[""Two special paint schemes, the Delta 'Soaring Spirit' and the Korean World Cup 2002, are also included.""]",1
+the korean world cup,"[""Two special paint schemes, the Delta 'Soaring Spirit' and the Korean World Cup 2002, are also included.""]",1
+the installer,"['The installer also contains replacement textures for the default B777-300 that comes with Microsoft Flight Simulator, in Delta, Air France and Korean Air Lines.']",1
+replacement texture,"['The installer also contains replacement textures for the default B777-300 that comes with Microsoft Flight Simulator, in Delta, Air France and Korean Air Lines.']",1
+the default,"['The installer also contains replacement textures for the default B777-300 that comes with Microsoft Flight Simulator, in Delta, Air France and Korean Air Lines.', 'All aircraft use the default Boeing 777 panel included with Microsoft Flight Simulator.']",2
+microsoft flight simulator,"['The installer also contains replacement textures for the default B777-300 that comes with Microsoft Flight Simulator, in Delta, Air France and Korean Air Lines.', 'All aircraft use the default Boeing 777 panel included with Microsoft Flight Simulator.']",2
+korean air line,"['The installer also contains replacement textures for the default B777-300 that comes with Microsoft Flight Simulator, in Delta, Air France and Korean Air Lines.']",1
+all aircraft,['All aircraft use the default Boeing 777 panel included with Microsoft Flight Simulator.'],1
+boeing 777 panel,['All aircraft use the default Boeing 777 panel included with Microsoft Flight Simulator.'],1
+these aircraft model,"['These aircraft models and panels are available from the Delta Virtual Airlines Fleet Library, as well as the popular flight simulation web sites http://www.flightsim.com and http://www.avsim.com/. If you find a model or panel that you believe is superior to the ones provided in the aircraft installer, please contact us and send us a copy.']",1
+panel,"['These aircraft models and panels are available from the Delta Virtual Airlines Fleet Library, as well as the popular flight simulation web sites http://www.flightsim.com and http://www.avsim.com/. If you find a model or panel that you believe is superior to the ones provided in the aircraft installer, please contact us and send us a copy.']",2
+the delta virtual airline,"['These aircraft models and panels are available from the Delta Virtual Airlines Fleet Library, as well as the popular flight simulation web sites http://www.flightsim.com and http://www.avsim.com/. If you find a model or panel that you believe is superior to the ones provided in the aircraft installer, please contact us and send us a copy.']",1
+fleet library,"['These aircraft models and panels are available from the Delta Virtual Airlines Fleet Library, as well as the popular flight simulation web sites http://www.flightsim.com and http://www.avsim.com/. If you find a model or panel that you believe is superior to the ones provided in the aircraft installer, please contact us and send us a copy.']",1
+the popular flight simulation web site,"['These aircraft models and panels are available from the Delta Virtual Airlines Fleet Library, as well as the popular flight simulation web sites http://www.flightsim.com and http://www.avsim.com/. If you find a model or panel that you believe is superior to the ones provided in the aircraft installer, please contact us and send us a copy.']",1
+a model,"['These aircraft models and panels are available from the Delta Virtual Airlines Fleet Library, as well as the popular flight simulation web sites http://www.flightsim.com and http://www.avsim.com/. If you find a model or panel that you believe is superior to the ones provided in the aircraft installer, please contact us and send us a copy.']",1
+the one,"['These aircraft models and panels are available from the Delta Virtual Airlines Fleet Library, as well as the popular flight simulation web sites http://www.flightsim.com and http://www.avsim.com/. If you find a model or panel that you believe is superior to the ones provided in the aircraft installer, please contact us and send us a copy.']",1
+the aircraft installer,"['These aircraft models and panels are available from the Delta Virtual Airlines Fleet Library, as well as the popular flight simulation web sites http://www.flightsim.com and http://www.avsim.com/. If you find a model or panel that you believe is superior to the ones provided in the aircraft installer, please contact us and send us a copy.']",1
+we,"['These aircraft models and panels are available from the Delta Virtual Airlines Fleet Library, as well as the popular flight simulation web sites http://www.flightsim.com and http://www.avsim.com/. If you find a model or panel that you believe is superior to the ones provided in the aircraft installer, please contact us and send us a copy.', 'We are a non-profit organization catering to the Flight Simulation community.']",3
+a copy,"['These aircraft models and panels are available from the Delta Virtual Airlines Fleet Library, as well as the popular flight simulation web sites http://www.flightsim.com and http://www.avsim.com/. If you find a model or panel that you believe is superior to the ones provided in the aircraft installer, please contact us and send us a copy.']",1
+these procedure,"[""These procedures are designed so that today's crews can work together effectively and safely as well as allowing some standardization of procedures for the company."", 'For Delta Virtual Airlines, these procedures are for the benefit of the pilots using this manual.']",2
+today's crew,"[""These procedures are designed so that today's crews can work together effectively and safely as well as allowing some standardization of procedures for the company.""]",1
+some standardization,"[""These procedures are designed so that today's crews can work together effectively and safely as well as allowing some standardization of procedures for the company.""]",1
+procedure,"[""These procedures are designed so that today's crews can work together effectively and safely as well as allowing some standardization of procedures for the company."", 'By standardizing procedures the company can budget flights better financially as flights will always be the same or at least somewhat similar.']",2
+the company,"[""These procedures are designed so that today's crews can work together effectively and safely as well as allowing some standardization of procedures for the company."", 'By standardizing procedures the company can budget flights better financially as flights will always be the same or at least somewhat similar.', 'For the crews, this means that the company can schedule pilots together that have never flown together before and still maintain a safe operation.']",3
+the crew,"['For the crews, this means that the company can schedule pilots together that have never flown together before and still maintain a safe operation.']",1
+a safe operation,"['For the crews, this means that the company can schedule pilots together that have never flown together before and still maintain a safe operation.']",1
+the benefit,"['For Delta Virtual Airlines, these procedures are for the benefit of the pilots using this manual.']",1
+boeing 777-200er aircraft operating manual,['By flying using PAGE 13 Boeing 777-200ER Aircraft Operating Manual these procedures pilots will be able to make better use of the manual and also operate the aircraft in a similar fashion company wide.'],1
+these procedure pilot,['By flying using PAGE 13 Boeing 777-200ER Aircraft Operating Manual these procedures pilots will be able to make better use of the manual and also operate the aircraft in a similar fashion company wide.'],1
+well use,['By flying using PAGE 13 Boeing 777-200ER Aircraft Operating Manual these procedures pilots will be able to make better use of the manual and also operate the aircraft in a similar fashion company wide.'],1
+the manual,['By flying using PAGE 13 Boeing 777-200ER Aircraft Operating Manual these procedures pilots will be able to make better use of the manual and also operate the aircraft in a similar fashion company wide.'],1
+a similar fashion company,['By flying using PAGE 13 Boeing 777-200ER Aircraft Operating Manual these procedures pilots will be able to make better use of the manual and also operate the aircraft in a similar fashion company wide.'],1
+any circumstance,"[""In any circumstance where company procedure conflicts with manufacturer's recommended operation, company procedure will take precedence unless a safety factor is involved.""]",1
+manufacturer's recommend operation,"[""In any circumstance where company procedure conflicts with manufacturer's recommended operation, company procedure will take precedence unless a safety factor is involved.""]",1
+company procedure,"[""In any circumstance where company procedure conflicts with manufacturer's recommended operation, company procedure will take precedence unless a safety factor is involved.""]",1
+precedence,"[""In any circumstance where company procedure conflicts with manufacturer's recommended operation, company procedure will take precedence unless a safety factor is involved.""]",1
+a safety factor,"[""In any circumstance where company procedure conflicts with manufacturer's recommended operation, company procedure will take precedence unless a safety factor is involved.""]",1
+discretion,['Discretion is the responsibility of the Captain.'],1
+the responsibility,['Discretion is the responsibility of the Captain.'],1
+the captain,['Discretion is the responsibility of the Captain.'],1
+pre-flight cid:131,['PRE-FLIGHT (cid:131) Establish electric power.'],1
+electric power,['PRE-FLIGHT (cid:131) Establish electric power.'],1
+the apu,['Start the APU.'],1
+apu bleed air valve,"['As soon as APU has started, check APU bleed air valve open, packs auto and recirculation fans on.']",1
+auto and recirculation fan,"['As soon as APU has started, check APU bleed air valve open, packs auto and recirculation fans on.']",1
+hydraulic-turn,"['Hydraulics - Turn on engine pumps (caution lights will remain on until engine start) Turn off C1, C2 pumps, L, C1, and C2 demand pumps until gate departure.']",1
+engine pump,"['Hydraulics - Turn on engine pumps (caution lights will remain on until engine start) Turn off C1, C2 pumps, L, C1, and C2 demand pumps until gate departure.']",1
+caution light,"['Hydraulics - Turn on engine pumps (caution lights will remain on until engine start) Turn off C1, C2 pumps, L, C1, and C2 demand pumps until gate departure.']",1
+engine start,"['Hydraulics - Turn on engine pumps (caution lights will remain on until engine start) Turn off C1, C2 pumps, L, C1, and C2 demand pumps until gate departure.', 'If fuel in center check, check cross-feed configuration for engine start and take-off.']",2
+c1,"['Hydraulics - Turn on engine pumps (caution lights will remain on until engine start) Turn off C1, C2 pumps, L, C1, and C2 demand pumps until gate departure.']",2
+c2 pump,"['Hydraulics - Turn on engine pumps (caution lights will remain on until engine start) Turn off C1, C2 pumps, L, C1, and C2 demand pumps until gate departure.']",1
+l,"['Hydraulics - Turn on engine pumps (caution lights will remain on until engine start) Turn off C1, C2 pumps, L, C1, and C2 demand pumps until gate departure.']",1
+gate departure,"['Hydraulics - Turn on engine pumps (caution lights will remain on until engine start) Turn off C1, C2 pumps, L, C1, and C2 demand pumps until gate departure.', 'GATE DEPARTURE (cid:131)']",2
+cid:131 ) load fuel,['(cid:131) Load fuel planned for flight.'],1
+all the fuel pump,['Check that all the fuel pumps are off (cid:131)'],1
+preflight fmc computer,['Preflight FMC computer (if available).'],1
+clearance,"['Obtain clearance from Delivery (cid:131) Execute ""', 'Obtain clearance to taxi to gate/parking area.']",2
+delivery,"['Obtain clearance from Delivery (cid:131) Execute ""']",1
+) execute,"['Obtain clearance from Delivery (cid:131) Execute ""']",1
+"aircraft "" checklist","['Receiving Aircraft"" checklist.']",1
+close aircraft door,['Close aircraft doors 5 minutes prior to scheduled departure time.'],1
+schedule departure time,['Close aircraft doors 5 minutes prior to scheduled departure time.'],1
+cid:131 ) execute,"['(cid:131) Execute ""Before Start"" checklist.', '(cid:131) Execute ""After Start"" checklist.', '(cid:131) Execute ""Before Take-off"" checklist.', '(cid:131) Execute after take off checklist.']",4
+checklist,"['(cid:131) Execute ""Before Start"" checklist.', '(cid:131) Execute ""After Start"" checklist.', '(cid:131) Execute after take off checklist.']",3
+cabin sign,"['Cabin signs to on, turn on all hydraulics and turn on fuel pumps in all tanks with fuel.']",1
+all hydraulic,"['Cabin signs to on, turn on all hydraulics and turn on fuel pumps in all tanks with fuel.', 'Shut off all fuel pumps, all hydraulics except right demand pump.']",2
+fuel pump,"['Cabin signs to on, turn on all hydraulics and turn on fuel pumps in all tanks with fuel.']",1
+all tank,"['Cabin signs to on, turn on all hydraulics and turn on fuel pumps in all tanks with fuel.']",1
+center check,"['If fuel in center check, check cross-feed configuration for engine start and take-off.']",1
+cross-feed configuration,"['If fuel in center check, check cross-feed configuration for engine start and take-off.']",1
+request pushback,['Request pushback.'],1
+beacon and navigation light,['Beacon and navigation lights ON.'],1
+contact ramp,['Contact ramp and push back.'],1
+sure throttle,['Make sure throttle is at idle and start engines.'],1
+engine,"['Make sure throttle is at idle and start engines.', 'Once cleared for take off, advance the thrust levers to stabilize engines.', 'Once engines have stopped, turn off all navigation and beacon lights.']",3
+both engine,['Both engines can be started at the same time.'],1
+the same time,['Both engines can be started at the same time.'],1
+request taxi clearance,['Request taxi clearance.'],1
+brake,['Release brakes and taxi to assigned runway.'],1
+taxi,"['Release brakes and taxi to assigned runway.', 'Taxi off the runway.', 'Obtain clearance to taxi to gate/parking area.', 'TAXI TO TERMINAL (cid:131)']",4
+assign runway,['Release brakes and taxi to assigned runway.'],1
+idle thrust,['Idle thrust is sufficient to keep the aircraft rolling.'],1
+light,"['Taxi lights OFF, landing lights ON, Strobe and wing lights ON.', 'Landing lights OFF.', 'Landing lights on below 10,000 feet MSL.']",4
+14 boeing 777-200er aircraft operating manual,['PAGE 14 Boeing 777-200ER Aircraft Operating Manual (cid:131)'],1
+flight director,"['Flight Director ON.', 'Flight Director OFF.', 'Flight Directors OFF (cid:131)']",3
+"take-off "" checklist","['(cid:131) Execute ""Before Take-off"" checklist.']",1
+the thrust lever,"['Once cleared for take off, advance the thrust levers to stabilize engines.']",1
+the toga switch,['Hit the TOGA switch to set TO thrust (should be set by 80 knots).'],1
+80 knot,['Hit the TOGA switch to set TO thrust (should be set by 80 knots).'],1
+v,"['At V , rotate the aircraft smoothly (2.5 deg/sec) to 15 degrees pitch up.']",1
+100 ft agl,"['At 100 ft AGL with a positive rate of climb, select the gear up.']",1
+a positive rate,"['At 100 ft AGL with a positive rate of climb, select the gear up.']",1
+climb,"['At 100 ft AGL with a positive rate of climb, select the gear up.', 'CLIMB (cid:131)', 'Initial rate of climb: 2000 - 4000 fpm, depending on GW and CLB thrust, at 250 KIAS to 10,000 feet MSL.', 'Once positive rate of climb attained, select gear up.']",4
+the gear,"['At 100 ft AGL with a positive rate of climb, select the gear up.']",1
+pitch angle,"['Maintain pitch angle to achieve IAS V +15. 2(cid:131)', 'At 10,000 ft MSL: o decrease pitch angle to accelerate to cruise climb speed of 320 KIAS (climb rate around 2000 - 3000 fpm, depending on GW).', 'LANDING (cid:131) Maintain pitch angle between 1 and 3 degrees at flare.']",3
+ias,['Maintain pitch angle to achieve IAS V +15. 2(cid:131)'],1
++15,['Maintain pitch angle to achieve IAS V +15. 2(cid:131)'],1
+acceleration height,"['At acceleration height, lower the nose to 10 degrees to accelerate the aircraft and set flaps 1\\xc2\\xb0.']",1
+the nose,"['At acceleration height, lower the nose to 10 degrees to accelerate the aircraft and set flaps 1\\xc2\\xb0.']",1
+10 degree,"['At acceleration height, lower the nose to 10 degrees to accelerate the aircraft and set flaps 1\\xc2\\xb0.', 'At 1,500 feet AGL lower nose to 10 degrees and continue with the take off procedure for cleaning the aircraft up.']",2
+set clb thrust,['Set CLB thrust.'],1
+210 kia,"['At 210 KIAS, retract flaps.']",1
+", retract flap","['At 210 KIAS, retract flaps.']",1
+250 kia,"['Accelerate to and maintain 250 KIAS below 10,000 ft MSL unless ""no speed restrictions"" issued by ATC.', 'Initial rate of climb: 2000 - 4000 fpm, depending on GW and CLB thrust, at 250 KIAS to 10,000 feet MSL.', 'Throttle down to 250 KIAS below 15,000 feet MSL, 240 KIAS below 12,000 feet MSL.']",3
+"10,000 ft msl","['Accelerate to and maintain 250 KIAS below 10,000 ft MSL unless ""no speed restrictions"" issued by ATC.', 'At 10,000 ft MSL: o decrease pitch angle to accelerate to cruise climb speed of 320 KIAS (climb rate around 2000 - 3000 fpm, depending on GW).']",2
+no speed restriction,"['Accelerate to and maintain 250 KIAS below 10,000 ft MSL unless ""no speed restrictions"" issued by ATC.']",1
+atc,"['Accelerate to and maintain 250 KIAS below 10,000 ft MSL unless ""no speed restrictions"" issued by ATC.', 'If possible continue to destination otherwise attempt to return to origin, inform ATC of intentions and situation.']",2
+this case,"['In this case, accelerate to cruise climb speed.']",1
+climb speed,"['In this case, accelerate to cruise climb speed.', 'At 10,000 ft MSL: o decrease pitch angle to accelerate to cruise climb speed of 320 KIAS (climb rate around 2000 - 3000 fpm, depending on GW).']",2
+initial rate,"['Initial rate of climb: 2000 - 4000 fpm, depending on GW and CLB thrust, at 250 KIAS to 10,000 feet MSL.']",1
+2000-4000 fpm,"['Initial rate of climb: 2000 - 4000 fpm, depending on GW and CLB thrust, at 250 KIAS to 10,000 feet MSL.']",1
+gw,"['Initial rate of climb: 2000 - 4000 fpm, depending on GW and CLB thrust, at 250 KIAS to 10,000 feet MSL.', 'At 10,000 ft MSL: o decrease pitch angle to accelerate to cruise climb speed of 320 KIAS (climb rate around 2000 - 3000 fpm, depending on GW).']",2
+clb,"['Initial rate of climb: 2000 - 4000 fpm, depending on GW and CLB thrust, at 250 KIAS to 10,000 feet MSL.']",1
+320 kia,"['At 10,000 ft MSL: o decrease pitch angle to accelerate to cruise climb speed of 320 KIAS (climb rate around 2000 - 3000 fpm, depending on GW).', 'Descend at mach 0.84 until 320 KIAS, at which point the pilot should throttle down to 310 KIAS.']",2
+climb rate,"['At 10,000 ft MSL: o decrease pitch angle to accelerate to cruise climb speed of 320 KIAS (climb rate around 2000 - 3000 fpm, depending on GW).', 'Reduce climb rate to 1000 fpm as opposed to 2200 fpm.']",2
+2000-3000 fpm,"['At 10,000 ft MSL: o decrease pitch angle to accelerate to cruise climb speed of 320 KIAS (climb rate around 2000 - 3000 fpm, depending on GW).']",1
+the cabin crew,['Alert the cabin crew that use of approved portable electronic devices is now approved.'],1
+approve portable electronic device,['Alert the cabin crew that use of approved portable electronic devices is now approved.'],1
+o set seatbelt sign,"['o Set seatbelt sign to auto, leave no-smoking on (cid:131)']",1
+auto,"['o Set seatbelt sign to auto, leave no-smoking on (cid:131)', 'Set auto-brakes to MAX AUTO.']",2
+no-smoking,"['o Set seatbelt sign to auto, leave no-smoking on (cid:131)']",1
+transition altitude,['At transition altitude: o reset altimeters to STD pressure.'],1
+altimeter,"['At transition altitude: o reset altimeters to STD pressure.', 'Set altimeter for your destination at FL180 or local transition level.', 'PAGE 17 Boeing 777-200ER Aircraft Operating Manual NORMAL CHECKLISTS RECEIVING AIRCRAFT (cid:131) Altimeters & Flt.', 'Altimeters SET (cid:131)']",4
+pressure,['At transition altitude: o reset altimeters to STD pressure.'],1
+flight progress,"['Monitor flight progress, fuel flow, and engine operations.']",1
+fuel flow,"['Monitor flight progress, fuel flow, and engine operations.']",1
+engine operation,"['Monitor flight progress, fuel flow, and engine operations.']",1
+review star,['Review STAR / ILS charts and weather conditions at destination.'],1
+chart,['Review STAR / ILS charts and weather conditions at destination.'],1
+weather condition,['Review STAR / ILS charts and weather conditions at destination.'],1
+cid:131 ) descent,"[""(cid:131) Descent before 100nm may increase fuel, however T/D is at pilot's discretion.""]",1
+t,"[""(cid:131) Descent before 100nm may increase fuel, however T/D is at pilot's discretion.""]",1
+/d,"[""(cid:131) Descent before 100nm may increase fuel, however T/D is at pilot's discretion.""]",1
+pilot's discretion,"[""(cid:131) Descent before 100nm may increase fuel, however T/D is at pilot's discretion.""]",1
+seat belt sign,"['Turn seat belt sign to on and reset MCP altitude to lowest cleared altitude.', 'Seat Belt Sign ON (cid:131)', 'Seat Belt Sign ON (cid:131) Altimeters & Flt.']",3
+mcp altitude,['Turn seat belt sign to on and reset MCP altitude to lowest cleared altitude.'],1
+to lowest clear altitude,['Turn seat belt sign to on and reset MCP altitude to lowest cleared altitude.'],1
+15 boee 777-200er aircraft operating manual,"['PAGE 15 Boeing 777-200ER Aircraft Operating Manual (cid:131) Execute ""']",1
+fl180,"['Set altimeter for your destination at FL180 or local transition level.', 'Reduce speed down to 270 KIAS passing through FL180.']",2
+local transition level,['Set altimeter for your destination at FL180 or local transition level.'],1
+mach,"['Descend at mach 0.84 until 320 KIAS, at which point the pilot should throttle down to 310 KIAS.']",1
+which point,"['Descend at mach 0.84 until 320 KIAS, at which point the pilot should throttle down to 310 KIAS.']",1
+310 kia,"['Descend at mach 0.84 until 320 KIAS, at which point the pilot should throttle down to 310 KIAS.']",1
+270 kia,['Reduce speed down to 270 KIAS passing through FL180.'],1
+"15,000 foot msl","['Throttle down to 250 KIAS below 15,000 feet MSL, 240 KIAS below 12,000 feet MSL.']",1
+"12,000 foot","['Throttle down to 250 KIAS below 15,000 feet MSL, 240 KIAS below 12,000 feet MSL.']",1
+set autobrake,['Set Autobrakes APPROACH (cid:131)'],1
+arm spoiler,['Arm spoilers.'],1
+the glide slope,"['Intercept the glide slope with flaps 15\\xc2\\xb0.', '(cid:131) Select Gear DOWN when the glide slope is one dot above.', 'Slow the aircraft on the glide slope to 160 KIAS and flaps 20\\xc2\\xb0.', 'Stay on or above the glide slope at all times.', ""Stay on or above the glide slope at all times during approach, once you get below it, you can't get back up it.""]",5
+flap 15\xc2\xb0,['Intercept the glide slope with flaps 15\\xc2\\xb0.'],1
+miss approach altitude,['Enter missed approach altitude into MCP.'],1
+mcp,['Enter missed approach altitude into MCP.'],1
+cid:131 ) select gear,['(cid:131) Select Gear DOWN when the glide slope is one dot above.'],1
+160 kia,['Slow the aircraft on the glide slope to 160 KIAS and flaps 20\\xc2\\xb0.'],1
+20\xc2\xb0,"['Slow the aircraft on the glide slope to 160 KIAS and flaps 20\\xc2\\xb0.', '(cid:131) Call for Max Thrust and flaps 20\\xc2\\xb0.']",2
+om,['Passing OM select flaps 30\\xc2\\xb0 and slow down to Vref (Vref+5 if using Autoland).'],1
+30\xc2\xb0,['Passing OM select flaps 30\\xc2\\xb0 and slow down to Vref (Vref+5 if using Autoland).'],1
+autoland,['Passing OM select flaps 30\\xc2\\xb0 and slow down to Vref (Vref+5 if using Autoland).'],1
+""" approach "" checklist","['(cid:131) Execute ""Approach"" Checklist.']",1
+landing,"['LANDING (cid:131) Maintain pitch angle between 1 and 3 degrees at flare.', 'SINGLE ENGINE OUT LANDING (cid:131) Use flaps 20o and Vref for approach and landing.', 'Use full flaps for landing.', 'Sound evacuation alarm on landing.']",4
+1 and 3 degree,['LANDING (cid:131) Maintain pitch angle between 1 and 3 degrees at flare.'],1
+flare,['LANDING (cid:131) Maintain pitch angle between 1 and 3 degrees at flare.'],1
+retard throttle,"['Retard throttle at ""10 feet"" callout.']",1
+"10 foot "" callout","['Retard throttle at ""10 feet"" callout.']",1
+touchdown,"['After touchdown, apply reverse thrust.']",1
+reverse thrust,"['After touchdown, apply reverse thrust.']",1
+80 knot stow,['At 80 knots stow thrust reversers and lower spoilers (cid:131)'],1
+reverser,['At 80 knots stow thrust reversers and lower spoilers (cid:131)'],1
+low spoiler,['At 80 knots stow thrust reversers and lower spoilers (cid:131)'],1
+the runway,['Taxi off the runway.'],1
+gate/parking area,['Obtain clearance to taxi to gate/parking area.'],1
+strobe,['Strobes and Landing Lights OFF.'],1
+landing light,['Strobes and Landing Lights OFF.'],1
+taxi light,['Taxi Lights ON.'],1
+retract flap,['Retract flaps.'],1
+16 boee 777-200er aircraft operate manual,['PAGE 16 Boeing 777-200ER Aircraft Operating Manual SECURING THE AIRCRAFT (cid:131)'],1
+parking brake set,"['Parking Brake SET.', 'Parking Brake SET (cid:131)']",2
+seat belt,"['Seat belt sign off.', 'Seat Belt Sign OFF (cid:131)']",2
+all navigation and beacon light,"['Once engines have stopped, turn off all navigation and beacon lights.']",1
+all fuel pump,"['Shut off all fuel pumps, all hydraulics except right demand pump.']",1
+right demand pump,"['Shut off all fuel pumps, all hydraulics except right demand pump.']",1
+apu bleed,"['Disconnect APU bleed, Engine Bleed (cid:131)']",1
+engine bleed,"['Disconnect APU bleed, Engine Bleed (cid:131)']",1
+external power,['Disconnect external power and turn off APU.'],1
+battery,['Battery OFF.'],1
+""" parking "" checklist","['(cid:131) Execute ""Parking"" Checklist.']",1
+17 boee 777-200er aircraft operate manual normal checklist,['PAGE 17 Boeing 777-200ER Aircraft Operating Manual NORMAL CHECKLISTS RECEIVING AIRCRAFT (cid:131) Altimeters & Flt.'],1
+flt,"['PAGE 17 Boeing 777-200ER Aircraft Operating Manual NORMAL CHECKLISTS RECEIVING AIRCRAFT (cid:131) Altimeters & Flt.', 'Seat Belt Sign ON (cid:131) Altimeters & Flt.']",2
+fuel control,['Fuel Control Switches CUTOFF (cid:131)'],2
+cutoff,['Fuel Control Switches CUTOFF (cid:131)'],2
+transponder,"['Transponder STANDBY (cid:131)', 'Transponder STANDBY PARKING (cid:131)']",2
+standby,['Transponder STANDBY (cid:131)'],1
+log book,['Log Book / ETOPS CHECKED & ON BOARD (cid:131)'],1
+board,"['Log Book / ETOPS CHECKED & ON BOARD (cid:131)', 'Also, due to the international aspect of the 777, pilots in the program should keep international charts on board at all times and be aware of changes to these charts.']",2
+preflight briefing,['Preflight Briefing COMPLETE BEFORE START (cid:131)'],1
+_,"['Fuel ___ REL, ____ ONBOARD (cid:131)', 'Trim ___ UNITS, ZERO, ZERO (cid:131)', 'Flaps SET___ BEFORE TAKEOFF (cid:131)', 'Departure Briefing COMPLETE (cid:131) Flaps ___ (cid:131)', 'Flaps ____ AFTER LANDING (cid:131)']",16
+rel,"['Fuel ___ REL, ____ ONBOARD (cid:131)']",1
+beacon,['Beacon ON (cid:131)'],1
+mcp set cid:131,['MCP SET (cid:131)'],1
+reference speed,['Reference Speeds SET (cid:131)'],2
+_ unit,"['Trim ___ UNITS, ZERO, ZERO (cid:131)']",1
+flight control,['Flight Controls CHECKED AFTER START (cid:131)'],1
+engine anti,['Engine Anti-Ice AS REQUIRED (cid:131)'],1
+ice,['Engine Anti-Ice AS REQUIRED (cid:131)'],1
+rto,['Autobrake RTO (cid:131)'],1
+flap,['Flaps SET___ BEFORE TAKEOFF (cid:131)'],1
+departure briefing,['Departure Briefing COMPLETE (cid:131) Flaps ___ (cid:131)'],1
+transponder ta/ra,['Transponder TA / RA AFTER TAKEOFF (cid:131)'],1
+page 18 boeing 777-200er aircraft operating manual,['Gear UP (cid:131) Flaps UP PAGE 18 Boeing 777-200ER Aircraft Operating Manual IN RANGE (cid:131)'],1
+cid:131 ) altimeter,['Seat Belt Sign ON (cid:131) Altimeters & Flt.'],1
+autobrake set cid:131,['Autobrake SET (cid:131)'],1
+arrival briefing,['Arrival Briefing COMPLETE APPROACH (cid:131) Radio & Courses IDENTIFIED & SET (cid:131)'],1
+complete approach,['Arrival Briefing COMPLETE APPROACH (cid:131) Radio & Courses IDENTIFIED & SET (cid:131)'],1
+radio,['Arrival Briefing COMPLETE APPROACH (cid:131) Radio & Courses IDENTIFIED & SET (cid:131)'],1
+course,['Arrival Briefing COMPLETE APPROACH (cid:131) Radio & Courses IDENTIFIED & SET (cid:131)'],1
+announcement cabin,['Landing Announcement CABIN READY LANDING (cid:131)'],1
+speed brake,['Speed Brakes ARMED (cid:131)'],1
+anti-ice,['Anti-Ice AS REQUIRED (cid:131) Exterior Lights AS REQUIRED (cid:131)'],1
+require cid:131 ) exterior light,['Anti-Ice AS REQUIRED (cid:131) Exterior Lights AS REQUIRED (cid:131)'],1
+speed brake down cid:131,['Speed Brakes DOWN (cid:131)'],1
+standby parking,['Transponder STANDBY PARKING (cid:131)'],1
+parking brake,['Parking Brake AS REQUIRED (cid:131)'],1
+logbook/fob/acars,['Logbook / FOB / ACARS COMPLETED PAGE 19 Boeing 777-200ER Aircraft Operating Manual EMERGENCY PROCEDURES MISSED APPROACH (cid:131)'],1
+19 boeing 777-200er aircraft operate manual emergency procedure,['Logbook / FOB / ACARS COMPLETED PAGE 19 Boeing 777-200ER Aircraft Operating Manual EMERGENCY PROCEDURES MISSED APPROACH (cid:131)'],1
+miss approach procedure,"['Execute Missed Approach procedure if at minimums with no visual reference, or if uncomfortable with the landing.']",1
+minimum,"['Execute Missed Approach procedure if at minimums with no visual reference, or if uncomfortable with the landing.']",1
+no visual reference,"['Execute Missed Approach procedure if at minimums with no visual reference, or if uncomfortable with the landing.']",1
+the landing,"['Execute Missed Approach procedure if at minimums with no visual reference, or if uncomfortable with the landing.']",1
+a landing,['Never try and salvage a landing out of a poor final approach.'],1
+a poor final approach,['Never try and salvage a landing out of a poor final approach.'],1
+cid:131 ) call,['(cid:131) Call for Max Thrust and flaps 20\\xc2\\xb0.'],1
+engage autopilot miss approach course,['Engage autopilot missed approach course.'],1
+positive rate,"['Once positive rate of climb attained, select gear up.']",1
+"1,500 foot","['At 1,500 feet AGL lower nose to 10 degrees and continue with the take off procedure for cleaning the aircraft up.']",1
+low nose,"['At 1,500 feet AGL lower nose to 10 degrees and continue with the take off procedure for cleaning the aircraft up.']",1
+the take off procedure,"['At 1,500 feet AGL lower nose to 10 degrees and continue with the take off procedure for cleaning the aircraft up.']",1
+throttle,"['Set Throttles Full Reverse Thrust (Auto-brake should engage).', 'Reduce throttle to 75% N . 1(cid:131)']",2
+full reverse thrust,['Set Throttles Full Reverse Thrust (Auto-brake should engage).'],1
+auto-brake,"['Set Throttles Full Reverse Thrust (Auto-brake should engage).', 'Ensure Auto-brake has engaged and if not engage manually.']",2
+the tower,['Call the Tower and inform you are aborting Take-off.'],1
+take-off,['Call the Tower and inform you are aborting Take-off.'],1
+single engine departure,['SINGLE ENGINE DEPARTURE (cid:131)'],1
+lack,"['Compensate for lack of power by adding the appropriate rudder.', 'Use rudder to compensate for lack of power.']",2
+power,"['Compensate for lack of power by adding the appropriate rudder.', 'Use rudder to compensate for lack of power.']",2
+the appropriate rudder,['Compensate for lack of power by adding the appropriate rudder.'],1
+1000 fpm,['Reduce climb rate to 1000 fpm as opposed to 2200 fpm.'],1
+2200 fpm,['Reduce climb rate to 1000 fpm as opposed to 2200 fpm.'],1
+75 %,['Reduce throttle to 75% N . 1(cid:131)'],1
+origin airport,['Return to Origin airport.'],1
+engine fire,"['ENGINE FIRE (cid:131)', 'Engine Fire Handle - Pull on respective engines.']",2
+lever,['Thrust Levers CLOSED.'],1
+respective engine,['Engine Fire Handle - Pull on respective engines.'],1
+second generator source,['(cid:131) APU - Start to provide second generator source.'],2
+page 20 boee 777-200er aircraft operate manual engine failure shutdown,['PAGE 20 Boeing 777-200ER Aircraft Operating Manual ENGINE FAILURE SHUTDOWN MID FLIGHT (cid:131)'],1
+fuel cross feed,['Set Fuel Cross feed from tank on failed engine side.'],1
+tank,['Set Fuel Cross feed from tank on failed engine side.'],1
+fail engine side,['Set Fuel Cross feed from tank on failed engine side.'],1
+acceptable power setting,['Reduce altitude to one where acceptable power setting can be established.'],1
+cruise speed,['Reduce cruise speed to Mach 0.65 or less.'],1
+origin,"['If possible continue to destination otherwise attempt to return to origin, inform ATC of intentions and situation.']",1
+intention,"['If possible continue to destination otherwise attempt to return to origin, inform ATC of intentions and situation.']",1
+situation,"['If possible continue to destination otherwise attempt to return to origin, inform ATC of intentions and situation.']",1
+single engine,['SINGLE ENGINE OUT LANDING (cid:131) Use flaps 20o and Vref for approach and landing.'],1
+cid:131 ) use,['SINGLE ENGINE OUT LANDING (cid:131) Use flaps 20o and Vref for approach and landing.'],1
+use,"['Use rudder to compensate for lack of power.', 'This manual is designed for use by Delta Virtual Airlines as reference material for flight simulator pilots operating the Boeing 777-200ER aircraft.']",2
+rudder,['Use rudder to compensate for lack of power.'],1
+all time,"['Stay on or above the glide slope at all times.', ""Stay on or above the glide slope at all times during approach, once you get below it, you can't get back up it."", 'Also, due to the international aspect of the 777, pilots in the program should keep international charts on board at all times and be aware of changes to these charts.']",3
+auto-brakes,"['Set auto-brakes to MAX AUTO.', 'Set auto-brakes to MA AUTO.']",2
+thrust reverser,['Do not use Thrust reversers on rollout.'],1
+rollout,['Do not use Thrust reversers on rollout.'],1
+the exception,['Proceed as if normal landing with the exceptions listed above.'],1
+total power loss,['TOTAL POWER LOSS (cid:131)'],1
+airfield,"['Determine if possible to reach airfield, if not search for an appropriate field or clearing to land in.']",1
+an appropriate field,"['Determine if possible to reach airfield, if not search for an appropriate field or clearing to land in.']",1
+full flap,"['Use full flaps for landing.', 'Open Ocean (cid:131) Use full Flaps.']",2
+ma auto,['Set auto-brakes to MA AUTO.'],1
+if normal landing,['Continue as if normal landing.'],1
+page 21 boee 777-200er aircraft operating manual gear,['PAGE 21 Boeing 777-200ER Aircraft Operating Manual GEAR STUCK UP (cid:131)'],1
+attempt,['Attempt to lower gear using back up hydraulic system.'],1
+to low gear,['Attempt to lower gear using back up hydraulic system.'],1
+hydraulic system,['Attempt to lower gear using back up hydraulic system.'],1
+air traffic control,"['Inform Air Traffic Control of your situation.', 'If air traffic control gives reports of wind shear on final approach, stay slightly above the listed altitude when crossing decision height to leave enough room for expected wind shear.', 'However, to save on fuel consumption, pilots should always use the listed climb procedures unless instructed otherwise by air traffic control.']",3
+your situation,['Inform Air Traffic Control of your situation.'],1
+atc instruction,['Follow ATC instructions on where to land.'],1
+option,['If options given preferences are: 1.'],1
+preference,['If options given preferences are: 1.'],1
+5000 ' smooth/flat field,"[""5000' Smooth/flat field 2.""]",1
+grass,['Grass beside runway (assuming no taxiways to be crossed) 3.'],1
+runway,"['Grass beside runway (assuming no taxiways to be crossed) 3.', 'Runway 4.']",2
+no taxiway,['Grass beside runway (assuming no taxiways to be crossed) 3.'],1
+large lake,['Large lake or wide river 5.'],1
+wide river,['Large lake or wide river 5.'],1
+bay,['Bay 6.'],1
+open ocean,['Open Ocean (cid:131) Use full Flaps.'],1
+low possible landing speed,['Use lowest possible landing speed to minimize damage.'],1
+damage,['Use lowest possible landing speed to minimize damage.'],1
+sound evacuation alarm,['Sound evacuation alarm on landing.'],1
+777-200er aircraft operating manual pilot note,"['PAGE 22 Boeing 777-200ER Aircraft Operating Manual PILOT NOTES AND OBSERVATIONS While the 777 is one of the most technologically advanced commercial aircraft in the world, pilots should always remember that the 777 is still a very large aircraft.']",1
+the most technologically advanced commercial aircraft,"['PAGE 22 Boeing 777-200ER Aircraft Operating Manual PILOT NOTES AND OBSERVATIONS While the 777 is one of the most technologically advanced commercial aircraft in the world, pilots should always remember that the 777 is still a very large aircraft.']",1
+a very large aircraft,"['PAGE 22 Boeing 777-200ER Aircraft Operating Manual PILOT NOTES AND OBSERVATIONS While the 777 is one of the most technologically advanced commercial aircraft in the world, pilots should always remember that the 777 is still a very large aircraft.']",1
+large aircraft rule,"['Therefore, large aircraft rules apply to the 777.']",1
+instance,"['For instance, pilots should not try a very short approach with very tight turns as if they were flying a 737 or other smaller aircraft.']",1
+a very short approach,"['For instance, pilots should not try a very short approach with very tight turns as if they were flying a 737 or other smaller aircraft.']",1
+very tight turn,"['For instance, pilots should not try a very short approach with very tight turns as if they were flying a 737 or other smaller aircraft.']",1
+a 737 or other small aircraft,"['For instance, pilots should not try a very short approach with very tight turns as if they were flying a 737 or other smaller aircraft.']",1
+the 777's power,"[""The 777's power can offset some pilot errors, but the power can also cause problems during tight maneuvers.""]",1
+some pilot error,"[""The 777's power can offset some pilot errors, but the power can also cause problems during tight maneuvers.""]",1
+the power,"[""The 777's power can offset some pilot errors, but the power can also cause problems during tight maneuvers.""]",1
+problem,"[""The 777's power can offset some pilot errors, but the power can also cause problems during tight maneuvers.""]",1
+tight maneuver,"[""The 777's power can offset some pilot errors, but the power can also cause problems during tight maneuvers.""]",1
+the good aspect,"[""One of the best aspects of the 777 is the aircraft's performance in severe weather conditions.""]",1
+the aircraft's performance,"[""One of the best aspects of the 777 is the aircraft's performance in severe weather conditions.""]",1
+severe weather condition,"[""One of the best aspects of the 777 is the aircraft's performance in severe weather conditions.""]",1
+strong crosswind,"['Not only is the aircraft stable, but strong crosswinds can be handled on demand.']",1
+demand,"['Not only is the aircraft stable, but strong crosswinds can be handled on demand.']",1
+the advanced system,['The advanced systems of the 777 make navigating through bad weather easier than in other commercial aircraft.'],1
+other commercial aircraft,['The advanced systems of the 777 make navigating through bad weather easier than in other commercial aircraft.'],1
+wind shear,"[""However, wind shear can be a problem given the aircraft's weight.""]",1
+a problem,"[""However, wind shear can be a problem given the aircraft's weight.""]",1
+the aircraft's weight,"[""However, wind shear can be a problem given the aircraft's weight.""]",1
+report,"['If air traffic control gives reports of wind shear on final approach, stay slightly above the listed altitude when crossing decision height to leave enough room for expected wind shear.']",1
+shear,"['If air traffic control gives reports of wind shear on final approach, stay slightly above the listed altitude when crossing decision height to leave enough room for expected wind shear.']",1
+final approach,"['If air traffic control gives reports of wind shear on final approach, stay slightly above the listed altitude when crossing decision height to leave enough room for expected wind shear.']",1
+the list altitude,"['If air traffic control gives reports of wind shear on final approach, stay slightly above the listed altitude when crossing decision height to leave enough room for expected wind shear.']",1
+decision height,"['If air traffic control gives reports of wind shear on final approach, stay slightly above the listed altitude when crossing decision height to leave enough room for expected wind shear.']",1
+enough room,"['If air traffic control gives reports of wind shear on final approach, stay slightly above the listed altitude when crossing decision height to leave enough room for expected wind shear.']",1
+expect wind shear,"['If air traffic control gives reports of wind shear on final approach, stay slightly above the listed altitude when crossing decision height to leave enough room for expected wind shear.']",1
+more room,"[""This will give the pilot more room to recover and with the 777's advanced braking capabilities, slowing after a hot landing is not as difficult as in other large aircraft such as the 767-400, 747-400 and 340-600.""]",1
+the 777's advanced brake capability,"[""This will give the pilot more room to recover and with the 777's advanced braking capabilities, slowing after a hot landing is not as difficult as in other large aircraft such as the 767-400, 747-400 and 340-600.""]",1
+a hot landing,"[""This will give the pilot more room to recover and with the 777's advanced braking capabilities, slowing after a hot landing is not as difficult as in other large aircraft such as the 767-400, 747-400 and 340-600.""]",1
+other large aircraft,"[""This will give the pilot more room to recover and with the 777's advanced braking capabilities, slowing after a hot landing is not as difficult as in other large aircraft such as the 767-400, 747-400 and 340-600."", 'Given the high thrust output from the 777 engines, climbing at higher rates is not as difficult as in other large aircraft.']",2
+the high thrust output,"['Given the high thrust output from the 777 engines, climbing at higher rates is not as difficult as in other large aircraft.']",1
+the 777 engine,"['Given the high thrust output from the 777 engines, climbing at higher rates is not as difficult as in other large aircraft.']",1
+high rate,"['Given the high thrust output from the 777 engines, climbing at higher rates is not as difficult as in other large aircraft.']",1
+fuel consumption,"['However, to save on fuel consumption, pilots should always use the listed climb procedures unless instructed otherwise by air traffic control.']",1
+the list climb procedure,"['However, to save on fuel consumption, pilots should always use the listed climb procedures unless instructed otherwise by air traffic control.']",1
+the most important attribute,"[""PAGE 23 Boeing 777-200ER Aircraft Operating Manual One of the most important attributes of a 777 pilot is knowledge of international flight rules and trans-oceanic rules given the 777's international flight schedule.""]",1
+a 777 pilot,"[""PAGE 23 Boeing 777-200ER Aircraft Operating Manual One of the most important attributes of a 777 pilot is knowledge of international flight rules and trans-oceanic rules given the 777's international flight schedule.""]",1
+knowledge,"[""PAGE 23 Boeing 777-200ER Aircraft Operating Manual One of the most important attributes of a 777 pilot is knowledge of international flight rules and trans-oceanic rules given the 777's international flight schedule.""]",1
+international flight rule,"[""PAGE 23 Boeing 777-200ER Aircraft Operating Manual One of the most important attributes of a 777 pilot is knowledge of international flight rules and trans-oceanic rules given the 777's international flight schedule.""]",1
+trans-oceanic rule,"[""PAGE 23 Boeing 777-200ER Aircraft Operating Manual One of the most important attributes of a 777 pilot is knowledge of international flight rules and trans-oceanic rules given the 777's international flight schedule.""]",1
+the 777's international flight schedule,"[""PAGE 23 Boeing 777-200ER Aircraft Operating Manual One of the most important attributes of a 777 pilot is knowledge of international flight rules and trans-oceanic rules given the 777's international flight schedule.""]",1
+the trans-oceanic information center,['Pilots of the 777 should always monitor the trans-oceanic information centers and plan their flights accordingly.'],1
+their flight,['Pilots of the 777 should always monitor the trans-oceanic information centers and plan their flights accordingly.'],1
+severe condition,"[""While the 777 can handle severe conditions, it is the pilot's responsibility to plan effectively and safely.""]",1
+all 777 pilot,['It is recommended that all 777 pilots stay up-to-date on all international flight rule changes and NAT track changes.'],1
+date,['It is recommended that all 777 pilots stay up-to-date on all international flight rule changes and NAT track changes.'],1
+all international flight rule change,['It is recommended that all 777 pilots stay up-to-date on all international flight rule changes and NAT track changes.'],1
+nat track change,['It is recommended that all 777 pilots stay up-to-date on all international flight rule changes and NAT track changes.'],1
+most 777 route,['Most 777 routes are international routes and therefore the 777 pilots (along with the MD-11 pilots) should be the most knowledgeable when it comes to trans-oceanic and international flight planning.'],1
+international route,['Most 777 routes are international routes and therefore the 777 pilots (along with the MD-11 pilots) should be the most knowledgeable when it comes to trans-oceanic and international flight planning.'],1
+therefore the 777 pilot,['Most 777 routes are international routes and therefore the 777 pilots (along with the MD-11 pilots) should be the most knowledgeable when it comes to trans-oceanic and international flight planning.'],1
+the md-11 pilot,['Most 777 routes are international routes and therefore the 777 pilots (along with the MD-11 pilots) should be the most knowledgeable when it comes to trans-oceanic and international flight planning.'],1
+trans-oceanic and international flight planning,['Most 777 routes are international routes and therefore the 777 pilots (along with the MD-11 pilots) should be the most knowledgeable when it comes to trans-oceanic and international flight planning.'],1
+the international aspect,"['Also, due to the international aspect of the 777, pilots in the program should keep international charts on board at all times and be aware of changes to these charts.']",1
+the program,"['Also, due to the international aspect of the 777, pilots in the program should keep international charts on board at all times and be aware of changes to these charts.']",1
+international chart,"['Also, due to the international aspect of the 777, pilots in the program should keep international charts on board at all times and be aware of changes to these charts.']",1
+change,"['Also, due to the international aspect of the 777, pilots in the program should keep international charts on board at all times and be aware of changes to these charts.']",1
+these chart,"['Also, due to the international aspect of the 777, pilots in the program should keep international charts on board at all times and be aware of changes to these charts.']",1
+assistance,"['If you need assistance finding a particular chart or have questions regarding interpretation of the charts, please contact the 777 Chief Pilot.']",1
+a particular chart,"['If you need assistance finding a particular chart or have questions regarding interpretation of the charts, please contact the 777 Chief Pilot.']",1
+question,"['If you need assistance finding a particular chart or have questions regarding interpretation of the charts, please contact the 777 Chief Pilot.']",1
+interpretation,"['If you need assistance finding a particular chart or have questions regarding interpretation of the charts, please contact the 777 Chief Pilot.']",1
+the chart,"['If you need assistance finding a particular chart or have questions regarding interpretation of the charts, please contact the 777 Chief Pilot.']",1
+the 777 chief pilot,"['If you need assistance finding a particular chart or have questions regarding interpretation of the charts, please contact the 777 Chief Pilot.']",1
+24 boee 777-200er aircraft operate manual legal stuff,['PAGE 24 Boeing 777-200ER Aircraft Operating Manual LEGAL STUFF (cid:131)'],1
+delta air line,"['Delta Virtual Airlines is not in anyway affiliated with Delta Air Lines or any of its subsidiaries.', 'This manual makes no claim to represent Boeing, Rolls Royce, General Electric, Pratt & Whitney, Microsoft, Delta Air Lines, Melvin Rafi or any other party involved.']",2
+its subsidiary,['Delta Virtual Airlines is not in anyway affiliated with Delta Air Lines or any of its subsidiaries.'],1
+a non-profit organization,['We are a non-profit organization catering to the Flight Simulation community.'],1
+the flight simulation community,['We are a non-profit organization catering to the Flight Simulation community.'],1
+the real delta air line web site,['The real Delta Air Lines web site is located at http://www.delta.com/. (cid:131)'],1
+http://www.delta.com/.,['The real Delta Air Lines web site is located at http://www.delta.com/. (cid:131)'],1
+this document,"['This document is copyright 2002, 2003 and 2005 by Robert J. Sucarato, Awais Ahsan, Geoffrey Smith and Adam Gaweda.']",1
+copyright,"['This document is copyright 2002, 2003 and 2005 by Robert J. Sucarato, Awais Ahsan, Geoffrey Smith and Adam Gaweda.']",1
+robert j. sucarato,"['This document is copyright 2002, 2003 and 2005 by Robert J. Sucarato, Awais Ahsan, Geoffrey Smith and Adam Gaweda.']",1
+awais ahsan,"['This document is copyright 2002, 2003 and 2005 by Robert J. Sucarato, Awais Ahsan, Geoffrey Smith and Adam Gaweda.']",1
+geoffrey,"['This document is copyright 2002, 2003 and 2005 by Robert J. Sucarato, Awais Ahsan, Geoffrey Smith and Adam Gaweda.']",1
+smith,"['This document is copyright 2002, 2003 and 2005 by Robert J. Sucarato, Awais Ahsan, Geoffrey Smith and Adam Gaweda.']",1
+adam gaweda,"['This document is copyright 2002, 2003 and 2005 by Robert J. Sucarato, Awais Ahsan, Geoffrey Smith and Adam Gaweda.']",1
+the author,['The authors grant unlimited rights to Delta Virtual Airlines for modifications and electronic distribution.'],1
+unlimited right,['The authors grant unlimited rights to Delta Virtual Airlines for modifications and electronic distribution.'],1
+modification,['The authors grant unlimited rights to Delta Virtual Airlines for modifications and electronic distribution.'],1
+electronic distribution,['The authors grant unlimited rights to Delta Virtual Airlines for modifications and electronic distribution.'],1
+reference material,['This manual is designed for use by Delta Virtual Airlines as reference material for flight simulator pilots operating the Boeing 777-200ER aircraft.'],1
+flight simulator pilot,['This manual is designed for use by Delta Virtual Airlines as reference material for flight simulator pilots operating the Boeing 777-200ER aircraft.'],1
+the boee 777-200er aircraft,['This manual is designed for use by Delta Virtual Airlines as reference material for flight simulator pilots operating the Boeing 777-200ER aircraft.'],1
+internet resource,['The information in this manual has been gathered from Internet resources and from test flying the aircraft.'],1
+test,['The information in this manual has been gathered from Internet resources and from test flying the aircraft.'],1
+no claim,"['This manual makes no claim to represent Boeing, Rolls Royce, General Electric, Pratt & Whitney, Microsoft, Delta Air Lines, Melvin Rafi or any other party involved.']",1
+roll royce,"['This manual makes no claim to represent Boeing, Rolls Royce, General Electric, Pratt & Whitney, Microsoft, Delta Air Lines, Melvin Rafi or any other party involved.']",1
+general electric,"['This manual makes no claim to represent Boeing, Rolls Royce, General Electric, Pratt & Whitney, Microsoft, Delta Air Lines, Melvin Rafi or any other party involved.']",1
+microsoft,"['This manual makes no claim to represent Boeing, Rolls Royce, General Electric, Pratt & Whitney, Microsoft, Delta Air Lines, Melvin Rafi or any other party involved.']",1
+melvin rafi,"['This manual makes no claim to represent Boeing, Rolls Royce, General Electric, Pratt & Whitney, Microsoft, Delta Air Lines, Melvin Rafi or any other party involved.']",1
+any other party,"['This manual makes no claim to represent Boeing, Rolls Royce, General Electric, Pratt & Whitney, Microsoft, Delta Air Lines, Melvin Rafi or any other party involved.']",1
+no guarantee,['There is no guarantee of the accuracy of this information.'],1
+the accuracy,['There is no guarantee of the accuracy of this information.'],1
+this information,['There is no guarantee of the accuracy of this information.'],1
+a reference,['This is a reference for the virtual flying world and is not to be used for real world aviation.'],1
+the virtual fly world,['This is a reference for the virtual flying world and is not to be used for real world aviation.'],1
+real world aviation,['This is a reference for the virtual flying world and is not to be used for real world aviation.'],1
+sale ' product,"[""This manual is freeware and is not to be included with any 'for sale' product.""]",1
+all image,['(cid:131) All images were graciously donated by Ryan Wilson.'],1
+ryan wilson,['(cid:131) All images were graciously donated by Ryan Wilson.'],1

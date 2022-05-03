@@ -455,13 +455,13 @@ class Categories extends React.Component {
                                         </div>   
                                     </div>
                                 </div>
-                                <div className="categories-terms-box--center">
+                                <div className="categories-terms-box--center" id="categoryControls">
                                     <h6 className="categories-sub-header centered">
                                         Edit Categories
                                     </h6> &nbsp;
                                     <div className="categories-input-box">
                                         {this.state.categoryRow === -1 ? // category has not been selected
-                                            <button className="button categories__buttons" onClick={() => this.isShowPopup(true,"")}>
+                                            <button className="button categories__buttons" id='createCategory' onClick={() => this.isShowPopup(true,"")}>
                                                 <FontAwesomeIcon icon={faPlus}/> &nbsp; 
                                                 Create New Category
                                             </button> 
@@ -475,7 +475,7 @@ class Categories extends React.Component {
                                         {this.state.categoryRow === -1 ?  // category has not been selected
                                             null 
                                             : // category has been selected
-                                            <button className="button categories__buttons red" onClick={() => this.deleteCat()}>
+                                            <button className="button categories__buttons red" id='deleteCategory' onClick={() => this.deleteCat()}>
                                                 <FontAwesomeIcon icon={faTrash}/> &nbsp; 
                                                 Delete Category
                                             </button>

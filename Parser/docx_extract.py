@@ -20,10 +20,10 @@ Returns: .doc object
 def open_file(filePath):
     if not filePath.exists():
         print("File " + filePath.name + " does not exist. Exiting...")
-        exit()
+        return 0
     elif not filePath.suffix == ".docx":
         print("File " + filePath.name + " is not a doc. Exiting...")
-        exit()
+        return 0
 
     file = docx.Document(filePath)
     return file

@@ -234,16 +234,16 @@ class ModalPopup extends Component {
                                 </Modal.Header>  
                                 <Modal.Body>  
                                 <div>
-                                    <input type="string" size="95" value={this.state.edge} placeholder="Enter a Relationship Name..." onChange={this.handleChange}/> 
+                                    <input type="string" size="95" value={this.state.edge} id='relationshipName' placeholder="Enter a Relationship Name..." onChange={this.handleChange}/> 
                                 </div> &nbsp;&nbsp;&nbsp;
                                 <div>
                                     <h6>
                                         Choose a color for the edge
                                     </h6>
-                                    <input type="color" value={this.state.color} onChange={this.handleChangeEdgeColor}/> &nbsp;&nbsp;&nbsp;
+                                    <input type="color" value={this.state.color} id='relationshipColor' onChange={this.handleChangeEdgeColor}/> &nbsp;&nbsp;&nbsp;
                                 </div> &nbsp;&nbsp;&nbsp;
                                 <div>
-                                    <button className="button__small blue" onClick={() => this.handleSubmit()}>
+                                    <button className="button__small blue" id='relationshipBtn' onClick={() => this.handleSubmit()}>
                                         <FontAwesomeIcon icon={faPlusCircle}/> &nbsp;
                                         Create
                                     </button>

@@ -19,11 +19,11 @@ class Load extends React.Component {
                         <div className="load-content-box">
                             <div className="load-content-box--centered">
                                 <div className="load-input-box">
-                                    <button onClick={() => this.props.reset(false)} className="button">
+                                    <button onClick={() => this.props.reset(false)} className="button" id="createBtn">
                                         <FontAwesomeIcon icon={faPlus}/> &nbsp;
                                         Create
                                     </button> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                    <button onClick={() => this.props.reset(true)} className="button">
+                                    <button onClick={() => this.props.reset(true)} className="button" id="loadBtn">
                                         <FontAwesomeIcon icon={faUpload}/> &nbsp;
                                         Load
                                     </button>

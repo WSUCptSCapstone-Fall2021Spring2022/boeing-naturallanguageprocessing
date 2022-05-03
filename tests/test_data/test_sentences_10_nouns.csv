@@ -1,0 +1,15 @@
+test_sentences_10_nouns.csv
+Unique nouns: 12,Total nouns: 12
+Total time: 0.927 sec,Cost per noun: 77.233 ms
+the queen,['The Queen of England lives in Buckingham Palace.'],1
+england,['The Queen of England lives in Buckingham Palace.'],1
+buckingham palace,['The Queen of England lives in Buckingham Palace.'],1
+some stock,['I want to invest in some stocks now.'],1
+the painting,['The painting looked like something out of the 1700s.'],1
+difference,['We should be able to resolve our differences.'],1
+30 jacket,['I have 30 jackets.'],1
+the golden age,['The Golden Age in many countries died down due to wars.'],1
+many country,['The Golden Age in many countries died down due to wars.'],1
+war,['The Golden Age in many countries died down due to wars.'],1
+mask,"[""She spent over $300 on masks alone in 2020.It's so cold.""]",1
+this big snake,['He was very scared when he saw this big snake.'],1

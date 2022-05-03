@@ -19,6 +19,7 @@
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
     "react-step-progress-bar": "^1.0.3",
+    "testcafe": "^1.18.5",
     "vis-react": "^0.5.1",
     "web-vitals": "^1.1.2"
   },

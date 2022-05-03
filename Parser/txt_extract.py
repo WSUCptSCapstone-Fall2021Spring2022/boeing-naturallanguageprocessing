@@ -7,8 +7,10 @@ Returns: text from .txt
 '''''''''''''''''''''''''''''''''''''''''''''''''''
 def get_text(filePath):
     file = open_file(filePath)
-    fileText = extract_txt_text(file)
-    return fileText
+    if file:
+        fileText = extract_txt_text(file)
+        return fileText
+    return 0
 
     
 '''''''''''''''''''''''''''''''''''''''''''''''''''
@@ -17,12 +19,14 @@ Description: opens the .txt
 Returns: .txt object
 '''''''''''''''''''''''''''''''''''''''''''''''''''
 def open_file(filePath):
+    if not filePath:
+        return 0
     if not filePath.exists():
         print("File " + filePath.name + " does not exist. Exiting...")
-        exit()
+        return 0
     elif not filePath.suffix == ".txt":
         print("File " + filePath.name + " is not a txt. Exiting...")
-        exit()
+        return 0
 
     file = open(filePath, encoding="utf-8")
     return file

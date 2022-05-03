@@ -4,7 +4,7 @@ from Parser import noun as Noun
 from Parser import Spacy
 from Parser import text_factory
 from Data import main as Data
-#import multiprocessing
+import multiprocessing
 
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 Function: main
@@ -15,7 +15,9 @@ nounData = {}
 
 
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''
-WHAT DOES THIS DO???
+Function: initializer
+Description: initializes paramaters for use of single_parse in multiprocess.Pool
+Returns: 
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 def initializer(output):
     global outDir
@@ -27,11 +29,11 @@ def initializer(output):
 #########################################################
 
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
-Function: parse
-Description: runs parser on given files from input location
-Returns: terms found and number of occurences of each term
+Function: parse_sync
+Description: runs parser on given files from input location synchronously
+Returns: all terms found and number of occurences of each term
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
-def parse(input, output, files):
+def parse_sync(input, output, files):
     folder = Path(input)
     totalNouns = {}
     global outDir
@@ -48,53 +50,57 @@ def parse(input, output, files):
 
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 Function: single_parse
-Description: runs parser on given files from input location
+Description: runs parser on a single file from input location
 Returns: terms found and number of occurences of each term
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 def single_parse(filePath):
-        startTime = Time.time()
+    print('parsing ' + filePath.name)
+    startTime = Time.time()
 
-        fileText = text_factory.get_text(filePath)
-        terms = Spacy.get_terms(fileText) # gets nouns and noun phrases from each file's text
+    fileText = text_factory.get_text(filePath)
+    terms = Spacy.get_terms(fileText) # gets nouns and noun phrases from each file's text
 
-        elapsedTime = Time.time() - startTime
-        totalTimeStr = "Total time: " + str(round(elapsedTime, 3)) + " sec"
+    elapsedTime = Time.time() - startTime
+    totalTimeStr = "Total time: " + str(round(elapsedTime, 3)) + " sec"
+    print('finished parsing ' + filePath.name)
+    print(totalTimeStr)
 
-        uniqueNouns = len(terms)
-        totalNouns = Noun.get_total_nouns(terms)
+    uniqueNouns = len(terms)
+    totalNouns = Noun.get_total_nouns(terms)
 
-        costPerNoun = (elapsedTime * 1000) / totalNouns
-        costPerNounStr = "Cost per noun: " + str(round(costPerNoun, 3)) + " ms"
+    costPerNoun = 0 if totalNouns == 0 else (elapsedTime * 1000) / totalNouns
+    costPerNounStr = "Cost per noun: " + str(round(costPerNoun, 3)) + " ms"
+    
 
-        Data.parser_to_csv(totalTimeStr, costPerNounStr, terms, uniqueNouns, totalNouns, filePath, outDir)
+    Data.parser_to_csv(totalTimeStr, costPerNounStr, terms, uniqueNouns, totalNouns, filePath, outDir)
 
-        return terms
+    return terms
         
 
 
-# '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
-# WHAT THIS DO?
-# '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
-# # need correct chunks, capture output
-# def parseAll(input, output, files):
-#     print('starting process pool')
-#     folder = Path(input)
-#     total_nouns = {}
-#     # TODO: filter folder based on files param before parsing in pool
-#     with multiprocessing.Pool(5, initializer, [output]) as p: # limit number of processes to 5
-#         results = p.map(singleParse, folder.iterdir())
-#         for doc in results:
-#             for noun in doc:
-#                 total_nouns.__setitem__(noun.text, noun.num_occur)
-#     return total_nouns
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+Function: parse
+Description: runs parser on given files from input location asynchronously
+Returns: all terms found and number of occurences of each term
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+def parse(input, output, files):
+    print('starting process pool')
+    folder = Path(input)
+    global outDir
+    outDir = output
+    total_nouns = {}
+    folder = [file for file in folder.iterdir() if file.stem in files]
+    with multiprocessing.Pool(5, initializer, [output]) as p: # limit number of processes to 5
+        results = p.map(single_parse, folder)
+        for doc in results:
+            for noun in doc:
+                total_nouns.__setitem__(noun.text, noun.occurances)
+    return (total_nouns)
 
 
-# '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
-# WHAT DOES THIS DO?
-# '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 # # FOR TESTING ONLY
 # if __name__ == "__main__":
-#     start = time.time()
+#     start = Time.time()
 #     # parse("./Parser/data", "./Parser/output", [])
-#     parseAll("./Parser/data", "./Parser/output", [])
-#     print("***total time = {}".format(time.time() - start))
+#     parseAll("./Data/Input/Games", "./Data/Output", ['test_paragraph'])
+#     print("***total time = {}".format(Time.time() - start))

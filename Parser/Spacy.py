@@ -41,20 +41,21 @@ def get_nouns(sentences):
     for sentence in sentences:
         foundDash = False
         foundSlash = False
-        sentenceCleaned = nlp(sentence.text.lower()) # creates nlp object from sentence
+        sentenceCleaned = nlp(sentence.text) # creates nlp object from sentence
         for chunk in sentenceCleaned.noun_chunks:
             nounChunk = ""
             found = False
             for token in chunk:
-                noun, foundDash, foundSlash = text_replacer.token_replacer(token, foundDash, foundSlash) # removes extra spaces in front and behind of dash or slash
-                nounChunk += noun
+                if token.pos_ != 'PRON':
+                    noun, foundDash, foundSlash = text_replacer.token_replacer(token, foundDash, foundSlash) # removes extra spaces in front and behind of dash or slash
+                    nounChunk += noun
             nounChunkCleaned = nounChunk.lstrip().rstrip() # removes extra spaces
             for noun in nouns:
                 if nounChunkCleaned == noun.text: # chunk is already in total_nouns
                     noun.add_occurance(sentence.text) # add new sentence to noun object
                     found = True
                     break
-            if not found:
-                newNoun = Noun.Noun(nounChunkCleaned, sentence.text) # create a new noun object
+            if not found and nounChunkCleaned != "":
+                newNoun = Noun.Noun(nounChunkCleaned.lower(), sentence.text) # create a new noun object
                 nouns.append(newNoun)
     return nouns

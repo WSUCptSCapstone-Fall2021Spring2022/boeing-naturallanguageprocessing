@@ -1,0 +1,28 @@
+EldenRingStance_nouns.csv
+Unique nouns: 25,Total nouns: 28
+Total time: 0.959 sec,Cost per noun: 34.252 ms
+sekiro,"['Similar to Sekiro: Shadows Die Twice, during Combat you should be careful not to lose your Stance in order to avoid getting staggered.']",1
+combat,"['Similar to Sekiro: Shadows Die Twice, during Combat you should be careful not to lose your Stance in order to avoid getting staggered.', ""During combat, you can block your Enemy's attack by holding the block button, however if you block each attack only when it's necessary, the game will consider that you performed a perfect Block.""]",2
+stance,"['Similar to Sekiro: Shadows Die Twice, during Combat you should be careful not to lose your Stance in order to avoid getting staggered.', ""Perfect Blocks will save your Stance, and waste the Enemy's Stance, but if you block earlier or keep blocking longer than necessary, you will lose some Stance while your Enemy saves it.""]",2
+order,"['Similar to Sekiro: Shadows Die Twice, during Combat you should be careful not to lose your Stance in order to avoid getting staggered.', ""You will also want to break your Enemy's Stance in order to make them stagger, giving you a chance to perform a critical attack.""]",2
+enemy's stance,"[""You will also want to break your Enemy's Stance in order to make them stagger, giving you a chance to perform a critical attack.""]",1
+a chance,"[""You will also want to break your Enemy's Stance in order to make them stagger, giving you a chance to perform a critical attack.""]",1
+a critical attack,"[""You will also want to break your Enemy's Stance in order to make them stagger, giving you a chance to perform a critical attack.""]",1
+enemy's attack,"[""During combat, you can block your Enemy's attack by holding the block button, however if you block each attack only when it's necessary, the game will consider that you performed a perfect Block.""]",1
+the block button,"[""During combat, you can block your Enemy's attack by holding the block button, however if you block each attack only when it's necessary, the game will consider that you performed a perfect Block.""]",1
+each attack,"[""During combat, you can block your Enemy's attack by holding the block button, however if you block each attack only when it's necessary, the game will consider that you performed a perfect Block.""]",1
+the game,"[""During combat, you can block your Enemy's attack by holding the block button, however if you block each attack only when it's necessary, the game will consider that you performed a perfect Block.""]",1
+a perfect block,"[""During combat, you can block your Enemy's attack by holding the block button, however if you block each attack only when it's necessary, the game will consider that you performed a perfect Block.""]",1
+perfect blocks,"[""Perfect Blocks will save your Stance, and waste the Enemy's Stance, but if you block earlier or keep blocking longer than necessary, you will lose some Stance while your Enemy saves it.""]",1
+the enemy's stance,"[""Perfect Blocks will save your Stance, and waste the Enemy's Stance, but if you block earlier or keep blocking longer than necessary, you will lose some Stance while your Enemy saves it.""]",1
+some stance,"[""Perfect Blocks will save your Stance, and waste the Enemy's Stance, but if you block earlier or keep blocking longer than necessary, you will lose some Stance while your Enemy saves it.""]",1
+enemy,"[""Perfect Blocks will save your Stance, and waste the Enemy's Stance, but if you block earlier or keep blocking longer than necessary, you will lose some Stance while your Enemy saves it.""]",1
+successful parry,"[""Performing successful parries will also help lowering or breaking your Enemy's Stance greatly, but failing an attempt of parrying will cost you a lot of Stance.""]",1
+enemy's stance,"[""Performing successful parries will also help lowering or breaking your Enemy's Stance greatly, but failing an attempt of parrying will cost you a lot of Stance.""]",1
+an attempt,"[""Performing successful parries will also help lowering or breaking your Enemy's Stance greatly, but failing an attempt of parrying will cost you a lot of Stance.""]",1
+parrying,"[""Performing successful parries will also help lowering or breaking your Enemy's Stance greatly, but failing an attempt of parrying will cost you a lot of Stance.""]",1
+a lot,"[""Performing successful parries will also help lowering or breaking your Enemy's Stance greatly, but failing an attempt of parrying will cost you a lot of Stance.""]",1
+stance,"[""Performing successful parries will also help lowering or breaking your Enemy's Stance greatly, but failing an attempt of parrying will cost you a lot of Stance.""]",1
+heavy strikes,"[""Heavy Strikes, Sneak Attacks and attacking from above can also heavily lower or break the opponent's Stance.""]",1
+sneak attacks,"[""Heavy Strikes, Sneak Attacks and attacking from above can also heavily lower or break the opponent's Stance.""]",1
+the opponent's stance,"[""Heavy Strikes, Sneak Attacks and attacking from above can also heavily lower or break the opponent's Stance.""]",1
