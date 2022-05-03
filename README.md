@@ -25,8 +25,6 @@ be divided into the following parts:
 
 1. Python 3
 2. Git Bash or Powershell
-3. Git
-4. Currently: 16gb of RAM
 
 ### Installation Steps
 
