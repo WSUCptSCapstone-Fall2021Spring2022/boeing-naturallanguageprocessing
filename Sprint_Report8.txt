@@ -10,7 +10,7 @@ Our team finished up testing and documentation. This includes MVP report, User M
 Docker containerization could not be done due to competing priorities in documentation and other acedemic classes. 
 
 ## Completed Issues/User Stories
-
+https://github.com/WSUCptSCapstone-Fall2021Spring2022/boeing-naturallanguageprocessing/issues/51
 
  ## Incomplete Issues/User Stories 
  
