@@ -32,7 +32,8 @@ Check our Boeing Startup Guide for instructions
 
 ## Functionality
 
-To run the application as is:
+To run the application:
+
 Check our Boeing Startup Guide for instructions
 
 ## Contributing
