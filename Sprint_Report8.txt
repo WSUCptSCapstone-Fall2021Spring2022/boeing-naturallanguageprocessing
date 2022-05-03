@@ -1,4 +1,4 @@
-# Sprint 5 Report (05/02/22)
+# Sprint 8 Report (05/02/22)
 
 ## What's New (User Facing)
  * Feature 1: User Manual
