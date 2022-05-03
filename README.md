@@ -28,39 +28,14 @@ be divided into the following parts:
 3. Git
 4. Currently: 16gb of RAM
 
-### Add-ons
-
-# Not used 1. BootCat
-# Not used 2. NER Tagger
-# Not used 3. DictionaryAPI.dev
-
 ### Installation Steps
 
-Instructions need to be such that a user can just copy/paste the commands to get things set up and running. 
-----Option 1----
-1. Open the project github page on browser: https://github.com/WSUCptSCapstone-Fall2021Spring2022/boeing-naturallanguageprocessing
-2. Open a git bash window
-3. Find the file directory you want to clone to: cd directory
-4. git clone https://github.com/WSUCptSCapstone-Fall2021Spring2022/boeing-naturallanguageprocessing.git
-
-Note: 'bundle install' not available at this time as the application is still in early stages of developent :(.
-
-----Option 2----
-1. Download zip file
-2. Extract files into choice directory.
+Check our Boeing Startup Guide for instructions
 
 ## Functionality
 
 To run the application as is:
-1. Download or clone the project into directory using steps above.
-2. On a git bash or shell window, go into the boeingnaturalprocessing directory and run command: python3 app.py
-
-## Known Problems
-
-Provide steps to reproduce the problem and/or name a file or a function where the problem lives.
-1. Parser is not the most accurate in picking up nouns. To recreate this issue, all that is needed is to run the project like normal and look at the output csv files.
-2. Taxonomy creation is innacurate and inneficient. Run the application like normal and observe innacuracy. To see performance open task manager while the program is
-running and time the runtime.
+Check our Boeing Startup Guide for instructions
 
 ## Contributing
 
@@ -69,11 +44,6 @@ running and time the runtime.
 3. Commit your changes: `git commit -am 'Add some feature'`
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
-
-## Additional Documentation
-
-Sprint Report:
-User Link: No user links at this time.
 
 ## License
 
