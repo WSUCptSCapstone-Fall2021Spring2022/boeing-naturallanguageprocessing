@@ -1,0 +1,31 @@
+{
+    "graph": {
+        "nodes": [
+            {
+                "id": 1,
+                "label": "Take-Off Procedures",
+                "color": "#e04141"
+            },
+            {
+                "id": 2,
+                "label": "Take-Off Controls",
+                "color": "#e04141"
+            }
+        ],
+        "edges": [
+            {
+                "from": 1,
+                "to": 2,
+                "color": "#3dc2b9",
+                "width": 3,
+                "relationship": "Uses",
+                "id": "f811b685-163d-42c2-9eae-f6d5c7f17d6a"
+            }
+        ]
+    },
+    "relationships": [
+        {
+            "Uses": "#3dc2b9"
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+Left COURSE Display 
+and Rotary
+Used to select the desired VOR radial for the captain’s EHSI. This works in 
+conjunction with the VOR selected using the pilot’s EHSI Control Panel.
+Auto Throttle Switch
+This switch is used in conjunction with the IAS / MACH Rotary and Display.
+Use this switch to toggle the Auto Throttle on, or off.
+When Auto Throttle is engaged, the autopilot has command of the throttles, and 
+will govern the airspeed according to the value indicated by the IAS / MACH 
+Display.
+C/O Toggle Toggles the IAS / MACH display units between Knots and Mach-number
+IAS / MACH Display
+and Rotary
+When used in conjunction with the Speed Button, and Auto-Throttle, the autopilot 
+will govern the speed according to this value.
+VNAV Button VNAV (Vertical Navigation). The autopilot / autothrottle will follow the vertical 
+components of your flight plan.
+Heading Display and 
+Rotary
+This display is used in conjunction with the HEADING Rotary. When Heading Select mode is engaged, the autopilot will steer the aircraft according to the value 
+displayed here.
+Use the Rotary Control outer ring to adjust the bank angle / rate of turn.
+Use the Rotary Control inner ring to adjust the heading.
+LNAV Button LNAV (Lateral Navigation). The autopilot will follow the lateral components of 
+your flight plan.
+Altitude Display and 
+Rotary
+Used in conjunction with the Altitude Hold Button and Vertical Speed Button.
+When Altitude Hold is engaged, the autopilot will immediately level-off, and the 
+level-off altitude will be displayed here.
+When Vertical Speed mode is engaged, the autopilot will ascend, or descend at 
+the desired rate, until reaching the altitude displayed here, at which point it will 
+level-off.
+Vertical Speed 
+Display and Rotary
+When VS (Vertical Speed) Mode is engaged, the autopilot will govern the rate of 
+ascent, or descent, according to this value.A/P ENGAGE
+The CMD buttons are used to engage the autopilot, noting there are two separate 
+and identical systems – A, and B. Note that, after engaging the autopilot, the 
+desired mode must still be selected subsequently.
+Systems A and B are normally engaged exclusively. However, when in ‘auto-land’ 
+mode, both are typically engaged together, to provide redundancy in case of 
+failure.
+The CWS buttons are used to engage Control Wheel Steering mode, whereby the 
+autopilot will allow the pilot to make inputs using the control wheel, after which it 
+will hold the resulting attitude.
+CMD / A – Engages Autopilot A
+CMD / B – Engages Autopilot B
+CWS / A – Engages Autopilot A in Control Wheel Steering mode
+CWS / B – Engages Autopilot B in Control Wheel Steering mode
+Right Course Display 
+and Rotary
+Used to select the desired VOR radial for the first-officer’s EHSI. This works in 
+conjunction with the VOR selected using the first-officer’s EHSI Control Panel.
+First-officer’s
+Flight Director 
+Switch
+Use this switch to toggle the ‘Flight Director’ display on, or off for the first-officer’s 
+EADI.
+The flight director computes and displays the proper pitch and bank angles
+required for the aircraft to follow the desired flight plan.
+The flight-crew can manually fly the aircraft according to the flight plan - by 
+aligning the attitude indicator with the Flight Director pitch and bank command 
+bars.
+Autopilot Disengage Click this button to disengage the autopilot and return full manual control to the 
+flight crew.
+VS Button
+Click this button to engage Vertical Speed Mode. Used in conjunction with the 
+auto-throttle, the autopilot will govern the rate of ascent, or descent, according to 
+the value indicated by the Vertical Speed Display.
+ALT Hold Button Click this button to engage Altitude Hold Mode. The autopilot will level-off and 
+hold the current altitude.
+VOR / LOC Button
+Click this button to engage VOR or Localizer Mode. The autopilot will steer the 
+aircraft laterally to intercept and track the VOR radial, or ILS localizer that is 
+selected via the active Nav radio.
+APP Button User in conjunction with the auto-throttle and NAV-1 radio to activate a localizer or 
+ILS approach.
+HDG Select Button Click this button to engage Heading Mode. The autopilot will steer according to 
+the Heading Display / EHSI heading bug.
+LVL CHG Button
+Click this button to engage Vertical Speed Mode. Used in conjunction with the 
+auto-throttle, the autopilot will maintain the current airspeed while ascending, or 
+descending to the selected altitude.
+Speed Button Click this button to engage Speed Mode. Used in conjunction with the auto-throttle, the autopilot will maintain airspeed according to the IAS / MACH Display.
+N1 Button (Not currently supported). In the real aircraft, this button causes the auto-throttles 
+to advance to a pre-defined limit N1 (turbine) limit expressed using the FMC.
+Pilot’s
+Flight Director 
+Switch
+Use this switch to toggle the ‘Flight Director’ display on, or off for the first-officer’s 
+EADI.
+The flight director computes and displays the proper pitch and bank angles
+required for the aircraft to follow the desired flight plan.
+The flight-crew can manually fly the aircraft according to the flight plan - by 
+aligning the attitude indicator with the Flight Director pitch and bank command 
+bars
